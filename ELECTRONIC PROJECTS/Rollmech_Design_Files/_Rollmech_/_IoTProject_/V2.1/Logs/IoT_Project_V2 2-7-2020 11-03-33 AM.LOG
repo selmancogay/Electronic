@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Added Member To Class: ClassName=[03] - POWER Member=Component C1 10uF 16V

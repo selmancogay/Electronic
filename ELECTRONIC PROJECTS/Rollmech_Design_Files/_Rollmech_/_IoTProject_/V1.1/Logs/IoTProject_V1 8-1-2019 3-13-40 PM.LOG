@@ -1,0 +1,8 @@
+Added Component: Designator=MH1(MH 3mm)
+Added Component: Designator=MH2(MH 3mm)
+Added Component: Designator=MH3(MH 3mm)
+Added Component: Designator=MH4(MH 3mm)
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component MH1 MH_3mm
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component MH2 MH_3mm
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component MH3 MH_3mm
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component MH4 MH_3mm

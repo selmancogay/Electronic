@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ViN Pin=D1-2
+Change Component Comment : Designator=D1 Old Comment=12V New Comment=12V 250mW
+Change Component Description : Designator=D1 Old Description=DIODE ZENER 12V 250MW SOT23-3 New Description=DIODE ZENER 12V 250MW
+Change Component Library : Designator=D1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Added Pin To Net: NetName=ViN Pin=D1-3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-4
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2

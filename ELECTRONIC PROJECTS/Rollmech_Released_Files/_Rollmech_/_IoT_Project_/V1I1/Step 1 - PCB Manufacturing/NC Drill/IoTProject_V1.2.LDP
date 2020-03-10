@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\a\Desktop\Electronic Project\2- IoTProject_V1.1\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V1.1\IoTProject_V1.2.CSPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=iotproject_v1.2-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=iotproject_v1.2-slotholes.txt|LayerPairs=gtl,gbl

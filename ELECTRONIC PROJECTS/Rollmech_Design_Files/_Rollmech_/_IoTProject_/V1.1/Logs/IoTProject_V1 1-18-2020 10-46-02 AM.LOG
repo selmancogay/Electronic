@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=J9 Old Footprint=16POS_2.54MMPITCH New Footprint=HDR_FEMALE_1x16_2.54MM
+Change Component Comment : Designator=J9 Old Comment=PPTC161LFBN-RC New Comment=HDR FEMALE 1x16 2.54MM
+Change Component Library : Designator=U11 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U5 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U6 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U7 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U8 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U9 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U10 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U12 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U13 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U14 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U15 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U16 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U17 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U18 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U19 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Net Name : Old Net Name=ViN New Net Name=ViN

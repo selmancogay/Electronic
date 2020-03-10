@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V Pin=Q10-1
+Change Component DesignItemId : Designator=Q10 Old DesignItemId=MMBT2222A-7-F New DesignItemId=MMBT2907A-7-F
+Change Component Comment : Designator=Q10 Old Comment=NPN New Comment=PNP
+Change Component Description : Designator=Q10 Old Description=TRANS NPN 40V 0.6A SMD SOT23-3 New Description=TRANS PNP 60V 0.6A SOT23-3
+Added Pin To Net: NetName=+5V Pin=Q10-3
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R5-2
+Added Net: Name=NetQ10_1
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component Q11 NPN
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component Q12 NPN

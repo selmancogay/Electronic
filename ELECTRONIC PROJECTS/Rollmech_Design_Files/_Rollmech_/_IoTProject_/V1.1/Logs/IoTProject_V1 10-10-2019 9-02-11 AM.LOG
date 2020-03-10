@@ -1,0 +1,10 @@
+Added Component: Designator=FID1(FID_40x120D)
+Added Component: Designator=FID2(FID_40x120D)
+Added Component: Designator=FID3(FID_40x120D)
+Added Component: Designator=FID4(FID_40x120D)
+Change Net Name : Old Net Name=ViN New Net Name=ViN
+Added Member To Class: ClassName=[03] - POWER Member=Component D2 33V3 TVS
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID1 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID2 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID3 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID4 FID_1MMC

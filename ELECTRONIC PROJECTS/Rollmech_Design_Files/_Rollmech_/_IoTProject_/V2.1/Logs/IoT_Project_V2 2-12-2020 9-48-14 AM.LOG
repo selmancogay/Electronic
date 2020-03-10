@@ -1,0 +1,8 @@
+Added Component: Designator=FD1(FID_40x120D)
+Added Component: Designator=FD2(FID_40x120D)
+Added Component: Designator=FD3(FID_40x120D)
+Added Component: Designator=FD4(FID_40x120D)
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component FD1 FID_1MMC
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component FD2 FID_1MMC
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component FD3 FID_1MMC
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component FD4 FID_1MMC

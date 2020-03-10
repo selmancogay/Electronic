@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetJP4_14 Pin=U4-50
+Removed Pin From Net: NetName=NetJP4_13 Pin=U4-51
+Removed Pin From Net: NetName=NetJP4_12 Pin=U4-52
+Removed Pin From Net: NetName=NetJP4_11 Pin=U4-53
+Removed Pin From Net: NetName=NetJP4_10 Pin=U4-54
+Removed Pin From Net: NetName=NetJP4_9 Pin=U4-55
+Removed Pin From Net: NetName=NetJP4_8 Pin=U4-56
+Removed Pin From Net: NetName=NetJP4_7 Pin=U4-57
+Added Component: Designator=R6(RES_0805)
+Added Component: Designator=R7(RES_0805)
+Added Component: Designator=R8(RES_0805)
+Added Component: Designator=R9(RES_0805)
+Added Component: Designator=R77(RES_0805)
+Added Component: Designator=R78(RES_0805)
+Added Component: Designator=R79(RES_0805)
+Added Component: Designator=R80(RES_0805)
+Added Pin To Net: NetName=NetJP4_7 Pin=R6-2
+Added Pin To Net: NetName=NetJP4_8 Pin=R7-2
+Added Pin To Net: NetName=NetJP4_9 Pin=R8-2
+Added Pin To Net: NetName=NetJP4_10 Pin=R9-2
+Added Pin To Net: NetName=NetJP4_11 Pin=R77-2
+Added Pin To Net: NetName=NetJP4_12 Pin=R78-2
+Added Pin To Net: NetName=NetJP4_13 Pin=R79-2
+Added Pin To Net: NetName=NetJP4_14 Pin=R80-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U4-57
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U4-56
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-55
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-54
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR77_1 Pin=R77-1
+Added Pin To Net: NetName=NetR77_1 Pin=U4-53
+Added Net: Name=NetR77_1
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=U4-52
+Added Net: Name=NetR78_1
+Added Pin To Net: NetName=NetR79_1 Pin=R79-1
+Added Pin To Net: NetName=NetR79_1 Pin=U4-51
+Added Net: Name=NetR79_1
+Added Pin To Net: NetName=NetR80_1 Pin=R80-1
+Added Pin To Net: NetName=NetR80_1 Pin=U4-50
+Added Net: Name=NetR80_1
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R6 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R7 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R8 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R9 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R77 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R78 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R79 0 1/8W
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component R80 0 1/8W

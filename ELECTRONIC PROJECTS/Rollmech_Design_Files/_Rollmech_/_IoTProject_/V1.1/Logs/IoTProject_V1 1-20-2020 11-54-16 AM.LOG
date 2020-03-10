@@ -1,0 +1,324 @@
+Change Component Footprint: Designator=J2 Old Footprint=3POS_2.54MM_PITCH_HDR New Footprint=HDR_MALE_1X3_2.54MM
+Change Component Footprint: Designator=J18 Old Footprint=3POS_2.54MM_PITCH_HDR New Footprint=HDR_MALE_1X3_2.54MM
+Change Component Footprint: Designator=J19 Old Footprint=3POS_2.54MM_PITCH_HDR New Footprint=HDR_MALE_1X3_2.54MM
+Change Component Footprint: Designator=J21 Old Footprint=3POS_2.54MM_PITCH_HDR New Footprint=HDR_MALE_1X3_2.54MM
+Change Component Footprint: Designator=J28 Old Footprint=3POS_2.54MM_PITCH_HDR New Footprint=HDR_MALE_1X3_2.54MM
+Change Component Footprint: Designator=J10 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J11 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J12 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J13 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J14 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J15 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J16 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J17 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J22 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J23 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J24 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J25 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J26 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J27 Old Footprint=3POS_3MMPITCH New Footprint=CONN_MALE_1X3_3MM
+Change Component Footprint: Designator=J4 Old Footprint=4POS_2.54MMPITCH New Footprint=HDR_FEMALE_1X4_2.54MM
+Change Component Footprint: Designator=J7 Old Footprint=4POS_2.54MMPITCH New Footprint=HDR_FEMALE_1X4_2.54MM
+Change Component Footprint: Designator=J20 Old Footprint=4POS_2.54MMPITCH New Footprint=HDR_FEMALE_1X4_2.54MM
+Change Component Footprint: Designator=J5 Old Footprint=6POS_2.54MMPITCH_FHEADER New Footprint=HDR_FEMALE_1X6_2.54MM
+Change Component Footprint: Designator=J6 Old Footprint=6POS_2.54MMPITCH_FHEADER New Footprint=HDR_FEMALE_1X6_2.54MM
+Change Component Footprint: Designator=J8 Old Footprint=6POS_2.54MMPITCH_FHEADER New Footprint=HDR_FEMALE_1X6_2.54MM
+Change Component Footprint: Designator=C2 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C4 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C17 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C18 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C19 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C20 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C21 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C22 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C23 Old Footprint=C0603 New Footprint=CAP_CER_0603
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=CAP_CER_0805
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=CAP_CER_0805
+Change Component Footprint: Designator=C25 Old Footprint=C0805 New Footprint=CAP_CER_0805
+Change Component Footprint: Designator=C26 Old Footprint=C0805 New Footprint=CAP_CER_0805
+Change Component Footprint: Designator=C27 Old Footprint=C0805 New Footprint=CAP_CER_0805
+Change Component Footprint: Designator=F1 Old Footprint=F0603 New Footprint=FUSE_0603
+Change Component Footprint: Designator=MH1 Old Footprint=MH 3MM New Footprint=MH_3MM
+Change Component Footprint: Designator=MH2 Old Footprint=MH 3MM New Footprint=MH_3MM
+Change Component Footprint: Designator=MH3 Old Footprint=MH 3MM New Footprint=MH_3MM
+Change Component Footprint: Designator=MH4 Old Footprint=MH 3MM New Footprint=MH_3MM
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R32 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R33 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R44 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R45 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R56 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R57 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R68 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R69 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R78 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R79 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R88 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R89 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R98 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R99 Old Footprint=R0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R3 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R11 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R14 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R17 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R18 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R19 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R22 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R23 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R24 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R25 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R26 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R27 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R28 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R29 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R30 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R31 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R34 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R35 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R36 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R37 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R38 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R39 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R40 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R41 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R42 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R43 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R46 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R47 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R48 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R49 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R50 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R51 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R52 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R53 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R54 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R55 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R58 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R59 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R60 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R61 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R62 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R63 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R64 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R65 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R66 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R67 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R72 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R73 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R74 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R75 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R76 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R77 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R80 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R81 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R82 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R83 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R84 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R85 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R86 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R87 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R90 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R91 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R92 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R93 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R94 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R95 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R96 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R97 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R100 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R101 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R104 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R105 Old Footprint=R0805 New Footprint=RES_0805
+Change Component Comment : Designator=F1 Old Comment=1.25A New Comment=1.25A 32VDC
+Change Component Comment : Designator=R19 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R26 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R27 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R38 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R39 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R50 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R51 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R62 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=R63 Old Comment=1K New Comment=1K 1/8W
+Change Component Comment : Designator=C24 Old Comment=1uF New Comment=1uF 35V
+Change Component Comment : Designator=D3 Old Comment=2V2 RED LED New Comment=LED RED
+Change Component Comment : Designator=D4 Old Comment=2V2 RED LED New Comment=LED RED
+Change Component Comment : Designator=J1 Old Comment=2x5.5 Jack New Comment=CONN 2x5.5 Jack
+Change Component Comment : Designator=J10 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J11 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J12 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J13 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J14 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J15 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J16 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J17 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J22 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J23 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J24 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J25 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J26 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=J27 Old Comment=3POS 3MM New Comment=CONN 1X3 3MM
+Change Component Comment : Designator=C26 Old Comment=4.7uF New Comment=4.7uF 35V
+Change Component Comment : Designator=C27 Old Comment=4.7uF New Comment=4.7uF 35V
+Change Component Comment : Designator=R28 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R29 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R40 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R41 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R52 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R53 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R64 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R65 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R74 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R75 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R84 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R85 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R94 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=R95 Old Comment=10K New Comment=10K 1/8W
+Change Component Comment : Designator=C25 Old Comment=10nF New Comment=10nF 100V
+Change Component Comment : Designator=C17 Old Comment=22pF New Comment=22pF 100V
+Change Component Comment : Designator=C18 Old Comment=22pF New Comment=22pF 100V
+Change Component Comment : Designator=D2 Old Comment=33V3 TVS New Comment=33V3
+Change Component Comment : Designator=R2 Old Comment=54R9 New Comment=54.9 1/8W
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R32 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R33 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R44 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R45 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R56 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R57 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R68 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R69 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R78 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R79 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R88 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R89 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R98 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=R99 Old Comment=100K New Comment=100K 1/4W
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=100nF 35V
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=100nF 35V
+Change Component Comment : Designator=C22 Old Comment=100nF New Comment=100nF 35V
+Change Component Comment : Designator=C23 Old Comment=100nF New Comment=100nF 35V
+Change Component Comment : Designator=R76 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R77 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R86 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R87 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R96 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R97 Old Comment=100R New Comment=100 1/8W
+Change Component Comment : Designator=R3 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R22 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R23 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R34 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R35 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R46 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R47 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R58 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R59 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R72 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R73 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R82 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R83 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R92 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R93 Old Comment=140R New Comment=140 1/8W
+Change Component Comment : Designator=R30 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R31 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R42 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R43 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R54 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R55 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R66 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=R67 Old Comment=374 Ohm New Comment=374 1/8W
+Change Component Comment : Designator=XTAL1 Old Comment=32768Khz New Comment=32.768KHZ
+Change Component Comment : Designator=XTAL2 Old Comment=ECS-80-18-20BQ-DS New Comment=8.000MHZ
+Change Component Comment : Designator=J2 Old Comment=HDR_3x2.54 New Comment=HDR_1X3_2.54
+Change Component Comment : Designator=J18 Old Comment=HDR_3x2.54 New Comment=HDR_1X3_2.54
+Change Component Comment : Designator=J19 Old Comment=HDR_3x2.54 New Comment=HDR_1X3_2.54
+Change Component Comment : Designator=J21 Old Comment=HDR_3x2.54 New Comment=HDR_1X3_2.54
+Change Component Comment : Designator=J28 Old Comment=HDR_3x2.54 New Comment=HDR_1X3_2.54
+Change Component Comment : Designator=D6 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D7 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D8 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D9 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D10 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D11 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D12 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D13 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D14 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D15 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D16 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D17 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D18 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=D19 Old Comment=LED New Comment=LED GREEN
+Change Component Comment : Designator=J4 Old Comment=PPTC041LFBN-RC New Comment=HDR FEMALE 1X4 2.54MM
+Change Component Comment : Designator=J7 Old Comment=PPTC041LFBN-RC New Comment=HDR FEMALE 1X4 2.54MM
+Change Component Comment : Designator=J20 Old Comment=PPTC041LFBN-RC New Comment=HDR FEMALE 1X4 2.54MM
+Change Component Comment : Designator=J5 Old Comment=PPTC061LFBN-RC New Comment=HDR FEMALE 1X6 2.54MM
+Change Component Comment : Designator=J6 Old Comment=PPTC061LFBN-RC New Comment=HDR FEMALE 1X6 2.54MM
+Change Component Comment : Designator=J8 Old Comment=PPTC061LFBN-RC New Comment=HDR FEMALE 1X6 2.54MM
+Change Component Description : Designator=C1 Old Description=1UF 35V X5R 0603 New Description=CAP CER 1UF 35V
+Change Component Description : Designator=C24 Old Description=1UF 35V X5R 0603 New Description=CAP CER 1UF 35V
+Change Component Description : Designator=XTAL2 Old Description=CRYSTAL 8.0000MHZ 18PF SMD New Description=CRYSTAL 8.000MHZ
+Change Component Description : Designator=XTAL1 Old Description=CRYSTAL 32.768KHZ 6PF SMD New Description=CRYSTAL 32.768KHZ
+Change Component Description : Designator=U1 Old Description=IC REG LINEAR 3.3V 1A TO252-3-11 New Description=IC REG LINEAR 3.3V 1A
+Change Component Description : Designator=U2 Old Description=IC REG LINEAR 5V 1A TO252-3-11 New Description=IC REG LINEAR 5V 1A
+Change Component Description : Designator=D3 Old Description=LED RED 626NM 2SMD New Description=LED TOPLED RED 626NM 2PLCC
+Change Component Description : Designator=D4 Old Description=LED RED 626NM 2SMD New Description=LED TOPLED RED 626NM 2PLCC
+Change Component Library : Designator=C1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=C24 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D2 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D3 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D4 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D6 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D7 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D8 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D9 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D10 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D11 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D12 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D13 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D14 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D15 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D16 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D17 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D18 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=D19 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=FID1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=FID2 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=FID3 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=FID4 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=J1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q2 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q3 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q6 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q7 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q10 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q11 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q14 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q15 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q18 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q19 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q20 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q21 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q22 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=Q23 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=SW1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U2 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U4 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=XTAL1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=XTAL2 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=J9 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U5 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U6 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U7 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U8 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U9 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U10 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U11 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U12 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U13 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U14 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U15 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U16 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U17 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U18 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=U19 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium.SchLib

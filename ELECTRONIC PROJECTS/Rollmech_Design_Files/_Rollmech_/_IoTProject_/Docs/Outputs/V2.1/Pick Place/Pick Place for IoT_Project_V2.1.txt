@@ -1,0 +1,162 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Q11        SOT-23_(TO-236)   3007.874mil   3027.559mil   3007.874mil   3027.559mil   2968.504mil   3027.559mil  T         90.00 NPN            
+Q12        SOT-23_(TO-236)    3236.22mil   2929.134mil    3236.22mil   2929.134mil    3196.85mil   2929.134mil  T         90.00 NPN            
+JP11       HDR_FEMALE_1X2_2.54MM    496.063mil   2435.827mil    496.063mil   2385.827mil    496.063mil   2385.827mil  T        180.00 HDR 1X2 2.54MM 
+JP2        HDR_FEMALE_1X2_2.54MM    685.039mil   2435.827mil    685.039mil   2385.827mil    685.039mil   2385.827mil  T        180.00 HDR 1X2 2.54MM 
+R72        RES_0805           1513.78mil   2263.779mil    1513.78mil    2263.78mil    1513.78mil   2301.181mil  T        270.00 10K            
+R71        RES_0805            960.63mil   2405.512mil     960.63mil   2405.512mil     960.63mil    2368.11mil  T         90.00 140            
+R5         RES_0805           584.646mil   1045.276mil    584.646mil   1045.276mil    622.047mil   1045.276mil  T        180.00 5.6k           
+D13        RES_0603          1326.772mil   2442.913mil   1326.772mil   2442.913mil   1297.244mil   2442.913mil  T          0.00 Blue Led       
+C6         CAP_CER_0603       5118.11mil   3387.795mil    5118.11mil   3387.795mil   5141.732mil   3387.795mil  T        180.00 100nF          
+C8         CAP_CER_0603       309.055mil   1255.906mil    309.055mil   1255.906mil    285.433mil   1255.906mil  T        360.00 4.7uf          
+C9         CAP_CER_0603       523.622mil   1255.906mil    523.622mil   1255.906mil        500mil   1255.906mil  T        360.00 4.7uf          
+C10        CAP_CER_0603       417.323mil   1255.906mil    417.323mil   1255.906mil    440.945mil   1255.906mil  T        180.00 100nF          
+C11        CAP_CER_0603       5118.11mil   3299.213mil    5118.11mil   3299.213mil   5141.732mil   3299.213mil  T        180.00 100nF          
+C12        CAP_CER_0805      5141.732mil   3202.756mil   5141.732mil   3202.756mil   5179.134mil   3202.756mil  T        180.00 10uF           
+C13        CAP_CER_0603      1706.693mil   2842.519mil   1706.693mil   2842.519mil   1683.071mil   2842.519mil  T        360.00 4.7uf          
+C14        CAP_CER_0603      1706.693mil   2744.094mil   1706.693mil   2744.094mil   1683.071mil   2744.094mil  T        360.00 4.7uf          
+C15        CAP_CER_0603      1669.291mil   2318.897mil   1669.291mil   2318.897mil   1645.669mil   2318.897mil  T        360.00 22pF           
+C16        CAP_CER_0603      1669.291mil   1944.882mil   1669.291mil   1944.882mil   1645.669mil   1944.882mil  T        360.00 22pF           
+C17        CAP_CER_0603      2031.496mil   1545.276mil   2031.496mil   1545.276mil   2055.118mil   1545.276mil  T        180.00 100nF          
+C18        CAP_CER_0603      3094.488mil   2238.189mil   3094.488mil   2238.189mil   3094.488mil   2214.567mil  T         90.00 100nF          
+C19        CAP_CER_0603      3179.134mil   2238.189mil   3179.134mil   2238.189mil   3179.134mil   2214.567mil  T         90.00 100nF          
+C20        CAP_CER_0603       2631.89mil   1801.181mil    2631.89mil   1801.181mil   2608.268mil   1801.181mil  T        360.00 100nF          
+C21        CAP_CER_0603       2631.89mil   1718.504mil    2631.89mil   1718.504mil   2608.268mil   1718.504mil  T        360.00 100nF          
+C23        CAP_CER_0805      2358.268mil   2035.433mil   2358.268mil   2035.433mil   2358.268mil   2072.834mil  T        270.00 10nF           
+C24        CAP_CER_0603      2620.079mil   2425.197mil   2620.079mil   2425.197mil   2643.701mil   2425.197mil  T        180.00 4.7uf          
+C25        CAP_CER_0603      2620.079mil   2509.842mil   2620.079mil   2509.842mil   2643.701mil   2509.842mil  T        180.00 4.7uf          
+D1         DO-214AB          1240.157mil   2783.465mil   1240.158mil   2783.465mil   1370.079mil   2783.465mil  T        180.00 33V3           
+D2         SOT-23_(TO-236)   1141.732mil    3078.74mil   1141.732mil    3078.74mil   1141.732mil    3118.11mil  T        360.00 12V 250mW      
+D3         RES_0603          1724.409mil   3511.811mil   1724.409mil   3511.811mil   1753.937mil   3511.811mil  T        180.00 Blue Led       
+D4         RES_0603           192.913mil   3511.811mil    192.913mil   3511.811mil    163.386mil   3511.811mil  T        360.00 LED RED        
+D5         RES_0603          1177.165mil   1086.614mil   1177.165mil   1086.614mil   1206.693mil   1086.614mil  T        180.00 Blue Led       
+D6         RES_0603          1704.724mil   1086.614mil   1704.724mil   1086.614mil   1734.252mil   1086.614mil  T        180.00 Blue Led       
+D7         RES_0603           2236.22mil   1084.646mil    2236.22mil   1084.646mil   2265.748mil   1084.646mil  T        180.00 Blue Led       
+D8         RES_0603          2765.748mil   1086.614mil   2765.748mil   1086.614mil   2795.276mil   1086.614mil  T        180.00 Blue Led       
+D9         RES_0603          3299.213mil   1086.614mil   3299.213mil   1086.614mil    3328.74mil   1086.614mil  T        180.00 Blue Led       
+D10        RES_0603          3826.771mil   1086.614mil   3826.772mil   1086.614mil   3856.299mil   1086.614mil  T        180.00 Blue Led       
+D11        RES_0603          4356.299mil   1086.614mil   4356.299mil   1086.614mil   4385.827mil   1086.614mil  T        180.00 Blue Led       
+D12        RES_0603          4891.732mil   1086.614mil   4891.732mil   1086.614mil    4921.26mil   1086.614mil  T        180.00 Blue Led       
+F1         FUSE_0603          952.756mil   2913.386mil    952.756mil   2913.386mil    952.756mil   2937.992mil  T        270.00 1.25A 32VDC    
+J1         POWER_JACK         673.228mil   2718.504mil    791.338mil   2811.024mil    791.338mil   2811.024mil  T        270.00 CONN 2x5.5 Jack
+J2         CONN_MALE_1X3_3MM   1228.346mil    220.472mil   1110.236mil    220.472mil   1110.236mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J3         CONN_MALE_1X3_3MM   1757.874mil    220.472mil   1639.764mil    220.472mil   1639.764mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J4         CONN_MALE_1X3_3MM    2289.37mil    220.472mil    2171.26mil    220.472mil    2171.26mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J5         CONN_MALE_1X3_3MM   2820.866mil    220.472mil   2702.756mil    220.472mil   2702.756mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J6         CONN_MALE_1X3_3MM   3352.362mil    220.472mil   3234.252mil    220.472mil   3234.252mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J7         CONN_MALE_1X3_3MM   3883.858mil    220.472mil   3765.748mil    220.472mil   3765.748mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J8         CONN_MALE_1X3_3MM   4415.354mil    220.472mil   4297.244mil    220.472mil   4297.244mil    220.472mil  T         90.00 CONN 1X3 3MM   
+J9         CONN_MALE_1X3_3MM   4948.819mil    220.472mil   4830.709mil    220.472mil   4830.709mil    220.472mil  T         90.00 CONN 1X3 3MM   
+JP1        HDR_FEMALE_1X2_2.54MM   4577.953mil   1387.795mil   4627.953mil   1387.795mil   4627.953mil   1387.795mil  T        270.00 HDR 1X2 2.54MM 
+JP3        HDR_FEMALE_1X5_2.54MM    611.417mil    220.472mil    411.417mil    220.472mil    411.417mil    220.472mil  T         90.00 HDR FEMALE 1X5 2.54MM
+JP5        HDR_MALE_1X3_2.54MM    255.905mil     531.89mil    255.905mil     631.89mil    255.905mil     631.89mil  T        360.00 HDR_1X3_2.54   
+JP6        HDR_FEMALE_1X4_2.54MM   5350.394mil     689.37mil   5350.394mil     839.37mil   5350.394mil     839.37mil  T          0.00 HDR FEMALE 1X4 2.54MM
+JP7        HDR_FEMALE_1X4_2.54MM   5350.394mil    1189.37mil   5350.394mil    1339.37mil   5350.394mil    1339.37mil  T          0.00 HDR FEMALE 1X4 2.54MM
+Q1         POWERPAK-SO8      1405.512mil   3047.244mil   1405.512mil   3047.244mil    1332.48mil   3122.244mil  T        270.00 PNP 60V 36A    
+Q2         SOT-23_(TO-236)   1059.055mil    919.291mil   1059.055mil    919.291mil   1059.055mil    958.661mil  T        360.00 PNP            
+Q3         SOT-23_(TO-236)   1586.614mil    919.291mil   1586.614mil    919.291mil   1586.614mil    958.661mil  T        360.00 PNP            
+Q4         SOT-23_(TO-236)    2118.11mil    919.291mil    2118.11mil    919.291mil    2118.11mil    958.661mil  T        360.00 PNP            
+Q5         SOT-23_(TO-236)   2649.606mil    919.291mil   2649.606mil    919.291mil   2649.606mil    958.661mil  T        360.00 PNP            
+Q6         SOT-23_(TO-236)   3183.071mil    919.291mil   3183.071mil    919.291mil   3183.071mil    958.661mil  T        360.00 PNP            
+Q7         SOT-23_(TO-236)    3710.63mil     921.26mil    3710.63mil     921.26mil    3710.63mil     960.63mil  T        360.00 PNP            
+Q8         SOT-23_(TO-236)   4240.158mil    919.291mil   4240.158mil    919.291mil   4240.158mil    958.661mil  T        360.00 PNP            
+Q9         SOT-23_(TO-236)   4775.591mil    919.291mil   4775.591mil    919.291mil   4775.591mil    958.661mil  T        360.00 PNP            
+R1         RES_0603           913.386mil   3070.866mil    913.386mil   3070.866mil    913.386mil   3100.394mil  T        270.00 100K           
+R2         RES_0805          1716.535mil   3610.236mil   1716.535mil   3610.236mil   1679.134mil   3610.236mil  T        360.00 54.9           
+R3         RES_0805           200.787mil   3610.236mil    200.787mil   3610.236mil    238.189mil   3610.236mil  T        180.00 140            
+R4         RES_0805          5013.779mil   3344.488mil   5013.779mil   3344.488mil   5013.779mil    3381.89mil  T        270.00 10K            
+R10        RES_0805           511.811mil    383.858mil    511.811mil    383.858mil    511.811mil     421.26mil  T        270.00 22             
+R11        RES_0805            710.63mil    383.858mil     710.63mil    383.858mil     710.63mil     421.26mil  T        270.00 22             
+R12        RES_0805           811.024mil    383.858mil    811.024mil    383.858mil    811.024mil     421.26mil  T        270.00 22             
+R13        RES_0805          3562.992mil   2704.724mil   3562.992mil   2704.724mil   3562.992mil   2742.126mil  T        270.00 5.6k           
+R14        RES_0805          3667.323mil   2704.724mil   3667.323mil   2704.724mil   3667.323mil   2742.126mil  T        270.00 5.6k           
+R15        RES_0805          2285.433mil   3685.039mil   2285.433mil   3685.039mil   2248.032mil   3685.039mil  T        360.00 1K             
+R16        RES_0805          2017.717mil   2842.519mil   2017.717mil   2842.519mil   1980.315mil   2842.519mil  T        360.00 0              
+R17        RES_0805          2017.717mil   2742.126mil   2017.717mil   2742.126mil   1980.315mil   2742.126mil  T        360.00 0              
+R18        RES_0805          2600.394mil   2606.299mil   2600.394mil   2606.299mil   2637.795mil   2606.299mil  T        180.00 5.6k           
+R19        RES_0805          2165.354mil   1545.275mil   2165.354mil   1545.275mil   2127.953mil   1545.275mil  T        360.00 5.6k           
+R20        RES_0805          1192.913mil    911.417mil   1192.913mil    911.417mil   1192.913mil    874.016mil  T         90.00 5.6k           
+R21        RES_0805          1720.472mil    911.417mil   1720.472mil    911.417mil   1720.472mil    874.016mil  T         90.00 5.6k           
+R22        RES_0805          1297.244mil    911.417mil   1297.244mil    911.417mil   1297.244mil    874.016mil  T         90.00 54.9           
+R23        RES_0805          1824.803mil    911.417mil   1824.803mil    911.417mil   1824.803mil    874.016mil  T         90.00 54.9           
+R24        RES_0805          1277.559mil    427.165mil   1277.559mil    427.165mil   1277.559mil    389.764mil  T         90.00 374            
+R25        RES_0805          1805.118mil    427.165mil   1805.118mil    427.165mil   1805.118mil    389.764mil  T         90.00 374            
+R26        RES_0805          1088.583mil    759.842mil   1088.583mil    759.842mil   1088.583mil    797.244mil  T        270.00 10K            
+R27        RES_0805           1618.11mil    759.842mil    1618.11mil    759.842mil    1618.11mil    797.244mil  T        270.00 10K            
+R28        RES_0805          1177.165mil    427.165mil   1177.165mil    427.165mil   1177.165mil    389.764mil  T         90.00 1K             
+R29        RES_0805          1704.724mil    427.165mil   1704.724mil    427.165mil   1704.724mil    389.764mil  T         90.00 1K             
+R30        RES_0603          1096.457mil    570.866mil   1096.457mil    570.866mil   1096.457mil    600.394mil  T        270.00 100K           
+R31        RES_0603          1625.984mil    570.866mil   1625.984mil    570.866mil   1625.984mil    600.394mil  T        270.00 100K           
+R32        RES_0805          2251.968mil    911.417mil   2251.968mil    911.417mil   2251.968mil    874.016mil  T         90.00 5.6k           
+R33        RES_0805          2781.496mil    911.417mil   2781.496mil    911.417mil   2781.496mil    874.016mil  T         90.00 5.6k           
+R34        RES_0805          2356.299mil    911.417mil   2356.299mil    911.417mil   2356.299mil    874.016mil  T         90.00 54.9           
+R35        RES_0805          2885.827mil    911.417mil   2885.827mil    911.417mil   2885.827mil    874.016mil  T         90.00 54.9           
+R36        RES_0805          2336.614mil    427.165mil   2336.614mil    427.165mil   2336.614mil    389.764mil  T         90.00 374            
+R37        RES_0805          2866.142mil    427.165mil   2866.142mil    427.165mil   2866.142mil    389.764mil  T         90.00 374            
+R38        RES_0805          2147.638mil    759.842mil   2147.638mil    759.842mil   2147.638mil    797.244mil  T        270.00 10K            
+R39        RES_0805          2679.134mil    759.842mil   2679.134mil    759.842mil   2679.134mil    797.244mil  T        270.00 10K            
+R40        RES_0805           2236.22mil    427.165mil    2236.22mil    427.165mil    2236.22mil    389.764mil  T         90.00 1K             
+R41        RES_0805          2765.748mil    427.165mil   2765.748mil    427.165mil   2765.748mil    389.764mil  T         90.00 1K             
+R42        RES_0603          2155.512mil    570.866mil   2155.512mil    570.866mil   2155.512mil    600.394mil  T        270.00 100K           
+R43        RES_0603          2687.008mil    570.866mil   2687.008mil    570.866mil   2687.008mil    600.394mil  T        270.00 100K           
+R44        RES_0805          3314.961mil    911.417mil   3314.961mil    911.417mil   3314.961mil    874.016mil  T         90.00 5.6k           
+R45        RES_0805           3842.52mil    913.386mil    3842.52mil    913.386mil    3842.52mil    875.984mil  T         90.00 5.6k           
+R46        RES_0805          3419.291mil    911.417mil   3419.291mil    911.417mil   3419.291mil    874.016mil  T         90.00 54.9           
+R47        RES_0805           3946.85mil    913.386mil    3946.85mil    913.386mil    3946.85mil    875.984mil  T         90.00 54.9           
+R48        RES_0805          3401.575mil    427.165mil   3401.575mil    427.165mil   3401.575mil    389.764mil  T         90.00 374            
+R49        RES_0805          3931.102mil    427.165mil   3931.102mil    427.165mil   3931.102mil    389.764mil  T         90.00 374            
+R50        RES_0805          3212.598mil    759.842mil   3212.598mil    759.842mil   3212.598mil    797.244mil  T        270.00 10K            
+R51        RES_0805          3740.157mil    759.842mil   3740.157mil    759.842mil   3740.157mil    797.244mil  T        270.00 10K            
+R52        RES_0805          3301.181mil    427.165mil   3301.181mil    427.165mil   3301.181mil    389.764mil  T         90.00 1K             
+R53        RES_0805          3830.709mil    427.165mil   3830.709mil    427.165mil   3830.709mil    389.764mil  T         90.00 1K             
+R54        RES_0603          3220.472mil    570.866mil   3220.472mil    570.866mil   3220.472mil    600.394mil  T        270.00 100K           
+R55        RES_0603          3748.032mil    570.866mil   3748.032mil    570.866mil   3748.032mil    600.394mil  T        270.00 100K           
+R56        RES_0805          4372.047mil    911.417mil   4372.047mil    911.417mil   4372.047mil    874.016mil  T         90.00 5.6k           
+R57        RES_0805           4907.48mil    911.417mil    4907.48mil    911.417mil    4907.48mil    874.016mil  T         90.00 5.6k           
+R58        RES_0805          4476.378mil    911.417mil   4476.378mil    911.417mil   4476.378mil    874.016mil  T         90.00 54.9           
+R59        RES_0805          5011.811mil    911.417mil   5011.811mil    911.417mil   5011.811mil    874.016mil  T         90.00 54.9           
+R60        RES_0805           4460.63mil    427.165mil    4460.63mil    427.165mil    4460.63mil    389.764mil  T         90.00 374            
+R61        RES_0805          4996.063mil    427.165mil   4996.063mil    427.165mil   4996.063mil    389.764mil  T         90.00 374            
+R62        RES_0805          4269.685mil    759.842mil   4269.685mil    759.842mil   4269.685mil    797.244mil  T        270.00 10K            
+R63        RES_0805          4805.118mil    759.842mil   4805.118mil    759.842mil   4805.118mil    797.244mil  T        270.00 10K            
+R64        RES_0805          4360.236mil    427.165mil   4360.236mil    427.165mil   4360.236mil    389.764mil  T         90.00 1K             
+R65        RES_0805          4895.669mil    427.165mil   4895.669mil    427.165mil   4895.669mil    389.764mil  T         90.00 1K             
+R66        RES_0603          4277.559mil    570.866mil   4277.559mil    570.866mil   4277.559mil    600.394mil  T        270.00 100K           
+R67        RES_0603          4812.992mil    570.866mil   4812.992mil    570.866mil   4812.992mil    600.394mil  T        270.00 100K           
+R68        RES_0805          5220.472mil    614.173mil   5220.472mil    614.173mil   5220.472mil    576.772mil  T         90.00 1K             
+R69        RES_0805          5220.472mil    769.685mil   5220.472mil    769.685mil   5220.472mil    732.284mil  T         90.00 1K             
+R70        RES_0805          5232.283mil   1188.976mil   5232.283mil   1188.976mil   5232.283mil   1226.378mil  T        270.00 10K            
+S2         TAC-SW             1671.26mil   1462.598mil    1671.26mil   1462.598mil   1852.165mil   1462.598mil  T        180.00 TAC SW         
+U1         XBEE_PRO_S1        764.961mil   1794.705mil    114.173mil    1789.37mil     410.63mil   1361.634mil  T         90.00 XBEE PRO S1    
+U2         ESP32-WROOM-32D   4832.283mil   2759.843mil   4468.504mil   3114.173mil   5177.165mil   3094.488mil  T        270.00 ESP32-WROOM-32D (8MB)
+U3         SOIC-8            3346.457mil   2669.291mil   3346.457mil   2669.291mil   3248.032mil   2744.291mil  T        360.00 2M EEPROM      
+U4         LQFP64            2771.654mil   2114.173mil   2771.653mil   2114.173mil   2533.465mil   2261.811mil  T          0.00 STM32F072R8T6TR
+U5         SOIC-6            1232.284mil    669.291mil   1232.284mil    669.291mil   1182.284mil    551.181mil  T         90.00 NPN 3.75KV     
+U6         SOIC-6            1759.842mil    669.291mil   1759.842mil    669.291mil   1709.842mil    551.181mil  T         90.00 NPN 3.75KV     
+U7         SOIC-6             2289.37mil    669.291mil    2289.37mil    669.291mil    2239.37mil    551.181mil  T         90.00 NPN 3.75KV     
+U8         SOIC-6            2820.866mil    669.291mil   2820.866mil    669.291mil   2770.866mil    551.181mil  T         90.00 NPN 3.75KV     
+U9         SOIC-6            3354.331mil    669.291mil   3354.331mil    669.291mil   3304.331mil    551.181mil  T         90.00 NPN 3.75KV     
+U10        SOIC-6             3881.89mil    669.291mil    3881.89mil    669.291mil    3831.89mil    551.181mil  T         90.00 NPN 3.75KV     
+U11        SOIC-6            4411.417mil    669.291mil   4411.417mil    669.291mil   4361.417mil    551.181mil  T         90.00 NPN 3.75KV     
+U12        SOIC-6             4946.85mil    669.291mil    4946.85mil    669.291mil    4896.85mil    551.181mil  T         90.00 NPN 3.75KV     
+XTAL1      XTAL_2SMD         1838.583mil   2793.307mil   1838.583mil   2793.307mil   1838.583mil   2842.519mil  T        270.00 32.768KHZ      
+C5         CAP_CER_0603      1007.874mil   3082.677mil   1007.874mil   3082.677mil   1007.874mil   3106.299mil  T        270.00 1uF            
+C22        CAP_CER_0603      2454.724mil   2035.433mil   2454.724mil   2035.433mil   2454.724mil   2059.055mil  T        270.00 1uF            
+JP8        HDR_MALE_1X3_2.54MM   2985.827mil   1275.591mil   2885.827mil   1275.591mil   2885.827mil   1275.591mil  T         90.00 HDR_1X3_2.54   
+R73        RES_0805          4311.024mil   2395.669mil   4311.024mil   2395.669mil   4311.024mil   2358.268mil  T         90.00 0              
+R74        RES_0805          3275.591mil   3102.362mil   3275.591mil   3102.362mil   3275.591mil   3064.961mil  T         90.00 54.9           
+R75        RES_0805           3039.37mil   1145.669mil    3039.37mil   1145.669mil   3001.969mil   1145.669mil  T        360.00 0 1/8W         
+R76        RES_0805          3389.764mil   3100.394mil   3389.764mil   3100.394mil   3389.764mil   3062.992mil  T         90.00 54.9           
+JP9        HDR_FEMALE_1X4_2.54MM   4016.142mil   1370.079mil   3866.142mil   1370.079mil   3866.142mil   1370.079mil  T         90.00 HDR FEMALE 1X4 2.54MM
+JP10       HDR_FEMALE_1X4_2.54MM   4016.142mil   1479.527mil   3866.142mil   1479.527mil   3866.142mil   1479.527mil  T         90.00 HDR FEMALE 1X4 2.54MM
+Q10        SOT-23_(TO-236)    377.953mil    840.551mil    377.953mil    840.551mil    377.953mil    801.181mil  T        180.00 PNP            
+C2         CAP_CER_0805      1582.677mil   3582.677mil   1582.677mil   3582.677mil   1582.677mil   3545.276mil  T         90.00 10uF 16V       
+C1         CAP_CER_0805       334.646mil   3582.677mil    334.646mil   3582.677mil    334.646mil   3545.276mil  T         90.00 10uF 16V       
+VR1        D2PAK              661.418mil   3506.398mil    661.418mil   3708.661mil    561.418mil   3304.134mil  T          0.00 LD1086-5V      
+XTAL2      HC-49/US          1846.457mil   2127.953mil   1846.457mil   2127.953mil   1846.457mil   2314.961mil  T        270.00 8Mhz           
+C3         CAP_CER_0805      1582.677mil    3421.26mil   1582.677mil    3421.26mil   1582.677mil   3458.661mil  T        270.00 10uf 50V       
+C4         CAP_CER_0805       334.646mil    3421.26mil    334.646mil    3421.26mil    334.646mil   3458.661mil  T        270.00 10uf 50V       
+VR2        D2PAK             1259.843mil   3506.398mil   1259.843mil   3708.661mil   1159.843mil   3304.134mil  T          0.00 LD1086-3V3     
+JP4        HDR_FEMALE_1X16_2.54MM   2887.795mil   3811.024mil   2137.795mil   3811.024mil   2137.795mil   3811.024mil  T         90.00 HDR FEMALE 1x16 2.54MM
+

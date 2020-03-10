@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=+3V3 Pin=R17-1
+Removed Pin From Net: NetName=+3V3 Pin=R18-1
+Removed Pin From Net: NetName=NetQ5_6 Pin=R32-1
+Removed Pin From Net: NetName=NetQ4_6 Pin=R33-1
+Removed Pin From Net: NetName=NetQ9_6 Pin=R44-1
+Removed Pin From Net: NetName=NetQ8_6 Pin=R45-1
+Removed Pin From Net: NetName=NetQ13_6 Pin=R56-1
+Removed Pin From Net: NetName=NetQ12_6 Pin=R57-1
+Removed Pin From Net: NetName=NetQ17_6 Pin=R68-1
+Removed Pin From Net: NetName=NetQ16_6 Pin=R69-1
+Removed Pin From Net: NetName=ViN Pin=R70-1
+Removed Pin From Net: NetName=NetR74_1 Pin=R78-1
+Removed Pin From Net: NetName=NetR75_1 Pin=R79-1
+Removed Pin From Net: NetName=NetR84_1 Pin=R88-1
+Removed Pin From Net: NetName=NetR85_1 Pin=R89-1
+Removed Pin From Net: NetName=NetR94_1 Pin=R98-1
+Removed Pin From Net: NetName=NetR95_1 Pin=R99-1
+Removed Pin From Net: NetName=ViN Pin=R103-1
+Added Component: Designator=FID1(FID_40x120D)
+Added Component: Designator=FID2(FID_40x120D)
+Added Component: Designator=FID3(FID_40x120D)
+Added Component: Designator=FID4(FID_40x120D)
+Added Pin To Net: NetName=+3V3 Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-3
+Added Pin To Net: NetName=ViN Pin=J21-1
+Added Pin To Net: NetName=+5V Pin=J21-3
+Added Pin To Net: NetName=ViN Pin=J28-1
+Added Pin To Net: NetName=+5V Pin=J28-3
+Added Pin To Net: NetName=+3V3/+5V Pin=R9-2
+Added Pin To Net: NetName=+3V3/+5V Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R17-1
+Added Pin To Net: NetName=+5V Pin=R18-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R32-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R33-1
+Added Pin To Net: NetName=NetQ6_2 Pin=R44-1
+Added Pin To Net: NetName=NetQ7_2 Pin=R45-1
+Added Pin To Net: NetName=NetQ10_2 Pin=R56-1
+Added Pin To Net: NetName=NetQ11_2 Pin=R57-1
+Added Pin To Net: NetName=NetQ14_2 Pin=R68-1
+Added Pin To Net: NetName=NetQ15_2 Pin=R69-1
+Added Pin To Net: NetName=+12V/5V Pin=R70-1
+Added Pin To Net: NetName=ViN Pin=R70-2
+Added Pin To Net: NetName=+12V/5V Pin=R71-2
+Added Pin To Net: NetName=NetQ18_2 Pin=R78-1
+Added Pin To Net: NetName=NetQ19_2 Pin=R79-1
+Added Pin To Net: NetName=NetQ20_2 Pin=R88-1
+Added Pin To Net: NetName=NetQ21_2 Pin=R89-1
+Added Pin To Net: NetName=NetQ22_2 Pin=R98-1
+Added Pin To Net: NetName=NetQ23_2 Pin=R99-1
+Added Pin To Net: NetName=+12V/5V Pin=R102-2
+Added Pin To Net: NetName=+12V/5V Pin=R103-1
+Added Pin To Net: NetName=ViN Pin=R103-2
+Change Net Name : Old Net Name=ViN New Net Name=ViN
+Change Class Name : Old Net Name=[05] - EEPROM,RTC,LCD New Net Name=[05] - EEPROM-RTC-LCD
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID1 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID2 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID3 FID_1MMC
+Added Member To Class: ClassName=[07] - OUTPUT Member=Component FID4 FID_1MMC

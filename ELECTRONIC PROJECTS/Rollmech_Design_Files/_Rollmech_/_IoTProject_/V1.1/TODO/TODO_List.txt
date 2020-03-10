@@ -1,0 +1,25 @@
+-Optocoupler hem U hemde Q diye isimlendirilmis.
+-Ara katmanlara plane atilmamis
+-0603 0805 paket kondansatörler solder padler çok küçük lehimlemede zorluk yasaniyor.
+-Output1 ve output4 karismis.
+-Output trasnstörleri hatali baglanmis. Layout hatasi var
+-Power katindak mosfet hatali GAte ucu 4. pin olmali Layout hatali
+-Optocoupler 1.pin belli eden assembly yok.
+-Eeprom 1. pim belli eden assembly yok.
+-Rollmech Logosu ekli degil.
+-Proje kodu ekli degil.
+-Inputlarda optocoupler led direnci çok yüksk 1k olmamali.
+-LDO isinma problemi var
+-Sematik çizimdeki designatorlar standarda bagli olmali
+-isinan komponentler için tasarimda alinabilecek önlemler.
+-8 Mhz kristalin 2 bacagi topraga bagli degil. Layout hatali
+-Canbus TVS diyotunun footprinti hatali
+-Ledler çok büyük.
+-LCD konnektörlerin üzerine geliyor.
+-Vialarin üstü kapli olmali lehim tutmamali.
+-Regülatörler degisebilir.
+-Assembly konumlandirilmalari hatali. Vialar ile çakisiyor.
+-Optocoupler yerine baska isolatörleri kullanilabilir.
+-Yedekleme yapilmali.
+-Cube Mx pinler belli degil belli olmali.
+-Block diyagramda  hangi pin nereye bagli yazmali.

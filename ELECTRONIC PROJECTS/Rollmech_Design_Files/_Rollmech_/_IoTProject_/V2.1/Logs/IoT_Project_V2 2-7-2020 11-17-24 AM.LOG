@@ -1,0 +1,10 @@
+Added Component: Designator=VR3(TO-220)
+Added Component: Designator=VR4(TO-220)
+Added Pin To Net: NetName=GND Pin=VR3-1
+Added Pin To Net: NetName=+5V Pin=VR3-2
+Added Pin To Net: NetName=VIN Pin=VR3-3
+Added Pin To Net: NetName=GND Pin=VR4-1
+Added Pin To Net: NetName=+3.3V Pin=VR4-2
+Added Pin To Net: NetName=VIN Pin=VR4-3
+Added Member To Class: ClassName=[03] - POWER Member=Component VR3 LM1086-5
+Added Member To Class: ClassName=[03] - POWER Member=Component VR4 LD1086V33

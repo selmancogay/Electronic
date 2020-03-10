@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=VR3-1
+Removed Pin From Net: NetName=+5V Pin=VR3-2
+Removed Pin From Net: NetName=VIN Pin=VR3-3
+Removed Pin From Net: NetName=GND Pin=VR4-1
+Removed Pin From Net: NetName=+3.3V Pin=VR4-2
+Removed Pin From Net: NetName=VIN Pin=VR4-3
+Added Member To Class: ClassName=[05] - LCD-EEPROM-RTC Member=Component JP4 HDR FEMALE 1x16 2.54MM

@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetJP2_1 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=U2-24
+Change Component Comment : Designator=R72 Old Comment=10K  New Comment=10K
+Added Component: Designator=D14(RES_0603)
+Added Component: Designator=D15(RES_0603)
+Added Component: Designator=JP8(HDR_MALE_1X3_2.54MM)
+Added Component: Designator=R73(RES_0805)
+Added Component: Designator=R74(RES_0805)
+Added Component: Designator=R75(RES_0805)
+Added Component: Designator=R76(RES_0805)
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D15-2
+Added Pin To Net: NetName=GND Pin=JP8-3
+Added Pin To Net: NetName=NetJP2_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=+5V Pin=R75-2
+Added Pin To Net: NetName=NetJP2_4 Pin=U4-20
+Added Pin To Net: NetName=NetJP2_3 Pin=U4-21
+Added Pin To Net: NetName=NetJP2_2 Pin=U4-22
+Added Pin To Net: NetName=NetJP2_1 Pin=U4-23
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R74-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=R76-2
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetJP8_1 Pin=JP8-1
+Added Pin To Net: NetName=NetJP8_1 Pin=R75-1
+Added Net: Name=NetJP8_1
+Added Pin To Net: NetName=NetJP8_2 Pin=JP8-2
+Added Pin To Net: NetName=NetJP8_2 Pin=U4-2
+Added Net: Name=NetJP8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-23
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR73_2 Pin=R73-2
+Added Pin To Net: NetName=NetR73_2 Pin=U2-24
+Added Net: Name=NetR73_2
+Added Pin To Net: NetName=NetR74_1 Pin=R74-1
+Added Pin To Net: NetName=NetR74_1 Pin=U4-9
+Added Net: Name=NetR74_1
+Added Pin To Net: NetName=NetR76_1 Pin=R76-1
+Added Pin To Net: NetName=NetR76_1 Pin=U4-10
+Added Net: Name=NetR76_1
+Added Class: Name=[08] - OUTPUT
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component R73 0

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NetJ11_2 Pin=U18-1
+Change Component DesignItemId : Designator=J11 Old DesignItemId=PPTC081LFBN-RC New DesignItemId=66200311122
+Change Component Footprint: Designator=J11 Old Footprint=8POS_2.54mmPitch New Footprint=3POS_3mmPitch
+Change Component Comment : Designator=J11 Old Comment=PPTC081LFBN-RC New Comment=3POS 3MM
+Added Component: Designator=J17(3POS_3mmPitch)
+Added Component: Designator=J18(3POS_3mmPitch)
+Added Component: Designator=J19(3POS_3mmPitch)
+Added Component: Designator=J20(3POS_3mmPitch)
+Added Component: Designator=J21(3POS_3mmPitch)
+Added Component: Designator=J22(3POS_3mmPitch)
+Added Component: Designator=J23(3POS_3mmPitch)
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=VCC-PRO Pin=J11-3
+Added Pin To Net: NetName=GND Pin=J17-1
+Added Pin To Net: NetName=VCC-PRO Pin=J17-3
+Added Pin To Net: NetName=GND Pin=J18-1
+Added Pin To Net: NetName=VCC-PRO Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J19-1
+Added Pin To Net: NetName=VCC-PRO Pin=J19-3
+Added Pin To Net: NetName=GND Pin=J20-1
+Added Pin To Net: NetName=VCC-PRO Pin=J20-3
+Added Pin To Net: NetName=GND Pin=J21-1
+Added Pin To Net: NetName=VCC-PRO Pin=J21-3
+Added Pin To Net: NetName=GND Pin=J22-1
+Added Pin To Net: NetName=VCC-PRO Pin=J22-3
+Added Pin To Net: NetName=GND Pin=J23-1
+Added Pin To Net: NetName=VCC-PRO Pin=J23-3
+Added Pin To Net: NetName=NetJ11_2 Pin=U15-1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_2 Pin=U11-1
+Added Net: Name=NetJ17_2
+Added Pin To Net: NetName=NetJ18_2 Pin=J18-2
+Added Pin To Net: NetName=NetJ18_2 Pin=U16-1
+Added Net: Name=NetJ18_2
+Added Pin To Net: NetName=NetJ19_2 Pin=J19-2
+Added Pin To Net: NetName=NetJ19_2 Pin=U12-1
+Added Net: Name=NetJ19_2
+Added Pin To Net: NetName=NetJ20_2 Pin=J20-2
+Added Pin To Net: NetName=NetJ20_2 Pin=U17-1
+Added Net: Name=NetJ20_2
+Added Pin To Net: NetName=NetJ21_2 Pin=J21-2
+Added Pin To Net: NetName=NetJ21_2 Pin=U13-1
+Added Net: Name=NetJ21_2
+Added Pin To Net: NetName=NetJ22_2 Pin=J22-2
+Added Pin To Net: NetName=NetJ22_2 Pin=U18-1
+Added Net: Name=NetJ22_2
+Added Pin To Net: NetName=NetJ23_2 Pin=J23-2
+Added Pin To Net: NetName=NetJ23_2 Pin=U14-1
+Added Net: Name=NetJ23_2
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J6 PPTC041LFBN-RC
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J12 2POS_5mmPitch
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J14 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J17 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J18 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J19 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J20 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J21 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J22 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J23 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component U3 2M eeprom

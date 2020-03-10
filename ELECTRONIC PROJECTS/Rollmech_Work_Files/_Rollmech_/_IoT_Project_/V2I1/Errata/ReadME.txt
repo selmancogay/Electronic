@@ -1,0 +1,1 @@
+This folder include errata which used component on project.

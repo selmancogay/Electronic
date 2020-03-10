@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\a\Desktop\Electronic Project\2- IoTProject_V1.1\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V1.1\IoTProject_V1.2.CSPcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

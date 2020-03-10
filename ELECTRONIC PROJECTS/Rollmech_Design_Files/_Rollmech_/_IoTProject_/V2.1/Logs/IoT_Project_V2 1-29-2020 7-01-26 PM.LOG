@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetR57_1 Pin=U4-33
+Removed Pin From Net: NetName=NetR56_1 Pin=U4-34
+Removed Pin From Net: NetName=NetR45_1 Pin=U4-35
+Removed Pin From Net: NetName=NetR44_1 Pin=U4-36
+Removed Pin From Net: NetName=NetR33_1 Pin=U4-37
+Removed Pin From Net: NetName=NetR32_1 Pin=U4-38
+Removed Pin From Net: NetName=NetR21_1 Pin=U4-39
+Removed Pin From Net: NetName=NetR20_1 Pin=U4-40
+Change Component Designator: OldDesignator=XTAL2 NewDesignator=xtal
+Added Pin To Net: NetName=NetR20_1 Pin=U4-33
+Added Pin To Net: NetName=NetR21_1 Pin=U4-34
+Added Pin To Net: NetName=NetR32_1 Pin=U4-35
+Added Pin To Net: NetName=NetR33_1 Pin=U4-36
+Added Pin To Net: NetName=NetR44_1 Pin=U4-37
+Added Pin To Net: NetName=NetR45_1 Pin=U4-38
+Added Pin To Net: NetName=NetR56_1 Pin=U4-39
+Added Pin To Net: NetName=NetR57_1 Pin=U4-40

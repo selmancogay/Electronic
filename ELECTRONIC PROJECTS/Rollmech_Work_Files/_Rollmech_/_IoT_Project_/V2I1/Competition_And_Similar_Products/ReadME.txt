@@ -1,0 +1,1 @@
+This folder include similar products documents.

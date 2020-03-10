@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=Q1-1
+Removed Pin From Net: NetName=ViN Pin=Q1-3
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1-5
+Change Component Comment : Designator=Q1 Old Comment=PChannel New Comment=PNP 60V 36A
+Change Component Description : Designator=Q1 Old Description=MOSFET P-CH 60V 36A POWERPAKSO-8 New Description=MOSFET P-CH 60V 36A
+Change Component Library : Designator=Q1 Old Library=IoTProject_V1.1.SchLib New Library=Rollmech_Altium.SchLib
+Change Component Library : Designator=J9 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U5 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U6 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U7 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U8 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U9 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U10 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U11 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U12 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U13 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U14 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U15 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U16 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U17 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U18 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Change Component Library : Designator=U19 Old Library=Rollmech_Altium_SCHLIB.SchLib New Library=Rollmech_Altium_SCHLIB.SchLib
+Added Pin To Net: NetName=ViN Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-4
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-5
+Change Net Name : Old Net Name=ViN New Net Name=ViN

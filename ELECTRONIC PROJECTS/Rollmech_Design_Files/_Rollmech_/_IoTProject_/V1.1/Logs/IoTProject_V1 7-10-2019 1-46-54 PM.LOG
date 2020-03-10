@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ7_2
+Added Pin To Net: NetName=NetJ13_2 Pin=J13-2
+Added Pin To Net: NetName=NetJ13_2 Pin=U7-4
+Added Net: Name=NetJ13_2
+Added Pin To Net: NetName=NetJ14_2 Pin=J14-2
+Added Pin To Net: NetName=NetJ14_2 Pin=U8-4
+Added Net: Name=NetJ14_2
+Added Pin To Net: NetName=NetJ15_2 Pin=J15-2
+Added Pin To Net: NetName=NetJ15_2 Pin=U9-4
+Added Net: Name=NetJ15_2
+Added Pin To Net: NetName=NetJ16_2 Pin=J16-2
+Added Pin To Net: NetName=NetJ16_2 Pin=U10-4
+Added Net: Name=NetJ16_2
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J7 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J13 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J14 3POS 3MM
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J15 3POS 3MM

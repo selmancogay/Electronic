@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=Q4-4
+Removed Pin From Net: NetName=NetQ4_6 Pin=Q4-6
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=GND Pin=Q5-4
+Removed Pin From Net: NetName=NetQ5_6 Pin=Q5-6
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Removed Pin From Net: NetName=GND Pin=Q8-4
+Removed Pin From Net: NetName=NetQ8_6 Pin=Q8-6
+Removed Pin From Net: NetName=GND Pin=Q9-3
+Removed Pin From Net: NetName=GND Pin=Q9-4
+Removed Pin From Net: NetName=NetQ9_6 Pin=Q9-6
+Removed Pin From Net: NetName=GND Pin=Q12-3
+Removed Pin From Net: NetName=GND Pin=Q12-4
+Removed Pin From Net: NetName=NetQ12_6 Pin=Q12-6
+Removed Pin From Net: NetName=GND Pin=Q13-3
+Removed Pin From Net: NetName=GND Pin=Q13-4
+Removed Pin From Net: NetName=NetQ13_6 Pin=Q13-6
+Removed Pin From Net: NetName=GND Pin=Q16-3
+Removed Pin From Net: NetName=GND Pin=Q16-4
+Removed Pin From Net: NetName=NetQ16_6 Pin=Q16-6
+Removed Pin From Net: NetName=GND Pin=Q17-3
+Removed Pin From Net: NetName=GND Pin=Q17-4
+Removed Pin From Net: NetName=NetQ17_6 Pin=Q17-6
+Removed Member From Class: ClassName=[06] - INPUT Member=Q4
+Removed Member From Class: ClassName=[06] - INPUT Member=Q5
+Removed Member From Class: ClassName=[06] - INPUT Member=Q8
+Removed Member From Class: ClassName=[06] - INPUT Member=Q9
+Removed Member From Class: ClassName=[06] - INPUT Member=Q12
+Removed Member From Class: ClassName=[06] - INPUT Member=Q13
+Removed Member From Class: ClassName=[06] - INPUT Member=Q16
+Removed Member From Class: ClassName=[06] - INPUT Member=Q17
+Change Component Footprint: Designator=U5 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Footprint: Designator=U6 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Footprint: Designator=U7 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Footprint: Designator=U8 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Footprint: Designator=U9 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Footprint: Designator=U10 Old Footprint=6-SOIC New Footprint=SOIC-6
+Change Component Comment : Designator=U5 Old Comment=NPN New Comment=NPN 3.75KV
+Change Component Comment : Designator=U6 Old Comment=NPN New Comment=NPN 3.75KV
+Change Component Comment : Designator=U7 Old Comment=NPN New Comment=NPN 3.75KV
+Change Component Comment : Designator=U8 Old Comment=NPN New Comment=NPN 3.75KV
+Change Component Comment : Designator=U9 Old Comment=NPN New Comment=NPN 3.75KV
+Change Component Comment : Designator=U10 Old Comment=NPN New Comment=NPN 3.75KV
+Added Component: Designator=U12(SOIC-6)
+Added Component: Designator=U13(SOIC-6)
+Added Component: Designator=U14(SOIC-6)
+Added Component: Designator=U15(SOIC-6)
+Added Component: Designator=U16(SOIC-6)
+Added Component: Designator=U17(SOIC-6)
+Added Component: Designator=U18(SOIC-6)
+Added Component: Designator=U19(SOIC-6)
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=GND Pin=U12-4
+Added Pin To Net: NetName=NetQ4_6 Pin=U12-6
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U13-4
+Added Pin To Net: NetName=NetQ5_6 Pin=U13-6
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U14-4
+Added Pin To Net: NetName=NetQ8_6 Pin=U14-6
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=NetQ9_6 Pin=U15-6
+Added Pin To Net: NetName=GND Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U16-4
+Added Pin To Net: NetName=NetQ12_6 Pin=U16-6
+Added Pin To Net: NetName=GND Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=NetQ13_6 Pin=U17-6
+Added Pin To Net: NetName=GND Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=NetQ16_6 Pin=U18-6
+Added Pin To Net: NetName=GND Pin=U19-3
+Added Pin To Net: NetName=GND Pin=U19-4
+Added Pin To Net: NetName=NetQ17_6 Pin=U19-6
+Change Net Name : Old Net Name=NetQ4_6 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetQ5_6 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetQ8_6 New Net Name=NetR36_1
+Change Net Name : Old Net Name=NetQ9_6 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetQ12_6 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetQ13_6 New Net Name=NetR49_1
+Change Net Name : Old Net Name=NetQ16_6 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetQ17_6 New Net Name=NetR61_1
+Change Net Name : Old Net Name=ViN New Net Name=ViN
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R30-2
+Added Pin To Net: NetName=NetR26_2 Pin=U12-1
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=R31-2
+Added Pin To Net: NetName=NetR27_2 Pin=U13-1
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=R42-2
+Added Pin To Net: NetName=NetR38_2 Pin=U14-1
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=R43-2
+Added Pin To Net: NetName=NetR39_2 Pin=U15-1
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=R54-2
+Added Pin To Net: NetName=NetR50_2 Pin=U16-1
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=R55-2
+Added Pin To Net: NetName=NetR51_2 Pin=U17-1
+Added Net: Name=NetR51_2
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=R66-2
+Added Pin To Net: NetName=NetR62_2 Pin=U18-1
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=R67-2
+Added Pin To Net: NetName=NetR63_2 Pin=U19-1
+Added Net: Name=NetR63_2
+Added Member To Class: ClassName=[06] - INPUT Member=Component U12 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U13 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U14 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U15 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U16 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U17 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U18 NPN 3.75KV
+Added Member To Class: ClassName=[06] - INPUT Member=Component U19 NPN 3.75KV

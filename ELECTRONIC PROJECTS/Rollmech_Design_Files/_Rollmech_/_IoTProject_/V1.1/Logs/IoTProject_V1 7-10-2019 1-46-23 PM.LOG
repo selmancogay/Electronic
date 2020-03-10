@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5 Pin=U6-5
+Removed Pin From Net: NetName=+5 Pin=U7-5
+Removed Pin From Net: NetName=+5 Pin=U8-5
+Removed Pin From Net: NetName=+5 Pin=U9-5
+Removed Pin From Net: NetName=+5 Pin=U10-5
+Added Component: Designator=J?(3POS_3mmPitch)
+Added Component: Designator=J?(3POS_3mmPitch)
+Added Component: Designator=J?(3POS_3mmPitch)
+Added Component: Designator=J?(3POS_3mmPitch)
+Added Component: Designator=J?(3POS_3mmPitch)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetC3_2 Pin=J?-3
+Added Pin To Net: NetName=NetC3_2 Pin=J?-3
+Added Pin To Net: NetName=NetC3_2 Pin=J?-3
+Added Pin To Net: NetName=NetC3_2 Pin=J?-3
+Added Pin To Net: NetName=NetC3_2 Pin=J?-3
+Added Pin To Net: NetName=NetC3_2 Pin=U6-5
+Added Pin To Net: NetName=NetC3_2 Pin=U7-5
+Added Pin To Net: NetName=NetC3_2 Pin=U8-5
+Added Pin To Net: NetName=NetC3_2 Pin=U9-5
+Added Pin To Net: NetName=NetC3_2 Pin=U10-5
+Change Net Name : Old Net Name=NetC3_2 New Net Name=VCC-PRO
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U6-4
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J? 3POS 3MM

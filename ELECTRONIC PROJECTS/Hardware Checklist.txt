@@ -1,0 +1,3 @@
+-Schematic Checklist , Software Checklist , PCB Checklist , Schematic Checklist Info , Designator Selection ve Layer Name oluşturuldu.
+
+(SELMAN COGAY 01.20.2020)

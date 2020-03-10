@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ4_2 Pin=R9-2
+Removed Pin From Net: NetName=NetJ4_3 Pin=R10-2
+Added Pin To Net: NetName=NetJ4_3 Pin=R9-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R10-2
+Added Member To Class: ClassName=IoTProject_V1.1 Member=Component J1 PPTC041LFBN-RC
