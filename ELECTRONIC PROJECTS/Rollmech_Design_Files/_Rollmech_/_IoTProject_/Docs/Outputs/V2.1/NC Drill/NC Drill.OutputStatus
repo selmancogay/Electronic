@@ -1,7 +1,7 @@
 [OutputStatus]
-OutputFileNames0=C:\Users\a\Desktop\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1-RoundHoles.TXT
-OutputFileNames1=C:\Users\a\Desktop\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1-SlotHoles.TXT
-OutputFileNames2=C:\Users\a\Desktop\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1.LDP
-OutputFileNames3=C:\Users\a\Desktop\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1.DRR
+OutputFileNames0=C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1-RoundHoles.TXT
+OutputFileNames1=C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1-SlotHoles.TXT
+OutputFileNames2=C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1.LDP
+OutputFileNames3=C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\NC Drill\IoT_Project_V2.1.DRR
 Success=1
 HasRun=1

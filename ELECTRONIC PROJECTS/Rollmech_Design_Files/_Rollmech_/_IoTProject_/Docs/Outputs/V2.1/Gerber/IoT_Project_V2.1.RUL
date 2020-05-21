@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\a\Desktop\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.CSPcbDoc
+DRC Rules Export File for PCB: C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.CSPcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
