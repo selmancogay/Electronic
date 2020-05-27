@@ -1,0 +1,12 @@
+Added Component: Designator=TP1(1.2x2.5 Pad)
+Added Component: Designator=TP2(1.2x2.5 Pad)
+Added Component: Designator=TP3(1.2x2.5 Pad)
+Added Component: Designator=TP4(1.2x2.5 Pad)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component TP1 PC TEST POINT, BLACK, SMT
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component TP2 PC TEST POINT, BLACK, SMT
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component TP3 PC TEST POINT, BLACK, SMT
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component TP4 PC TEST POINT, BLACK, SMT

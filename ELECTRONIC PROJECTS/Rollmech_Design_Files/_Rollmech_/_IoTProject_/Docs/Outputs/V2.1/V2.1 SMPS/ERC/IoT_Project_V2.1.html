@@ -1,0 +1,777 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #E2F2F8;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+        td, th {
+            padding: 0.5em;
+            text-align : left;
+        }
+        th {
+            background-color : #EEEEEE;
+        
+        }
+        th.column1, td.column1 {
+            width : 10em;
+        }
+
+        th.column2, td.column2 {
+            width : 30em;
+        }
+
+        table {
+            width : 100%;
+            font-size: 0.9em;
+        }
+
+		.header_holder {
+			Width = 100%;
+			border = 0px solid green;
+			padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+        }
+
+        .front_matter_column1 {
+			width : 5em;
+			font-weight: bold;
+        }
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+        .total_column1, .total_column {
+            font-weight : bold;
+        }
+        .total_column1 {
+            text-align : left;
+        }
+        .warning, .error {
+            color : red;
+            font-weight : bold;
+        }
+        tr.onmouseout_odd {
+            background-color : #white;
+        }
+        tr.onmouseout_even { 
+            background-color : #FAFAFA;
+        }
+        tr.onmouseover_odd, tr.onmouseover_even { 
+            background-color : #EEEEEE;
+        } 
+        a:link, a:visited, .q a:link,.q a:active,.q {
+            color: #21489e; 
+        }
+        a:link.callback, a:visited.callback { 
+            color: #21489e;
+        }
+        p.contents_level1 {
+            font-weight : bold;
+            font-size : 110%;
+            margin : 0.5em;
+        }
+        p.contents_level2 {
+            position : relative;
+            left : 20px;
+            margin : 0.5em;
+        }
+    </style><script type="text/javascript">
+        function coordToMils(coord) {
+            var number = coord / 10000;
+            
+            if (number != number.toFixed(3))
+                number = number.toFixed(3);
+            
+            return number + 'mil'
+        }
+
+        function coordToMM(coord) {
+            var number = 0.0254 * coord / 10000;
+            
+            if (number != number.toFixed(4))
+                number = number.toFixed(4);
+            
+            return number + 'mm'
+        }
+    
+        function convertCoord(coordNode, units) {
+            for (var i = 0; i < coordNode.childNodes.length; i++) {
+                coordNode.removeChild(coordNode.childNodes[i]);
+            }
+
+            var coord = coordNode.getAttribute('value');
+            if (coord != null) {
+                if (units == 'mm') {
+                    textNode = document.createTextNode(coordToMM(coord));
+                    coordNode.appendChild(textNode);
+                } else if (units == 'mil') {
+                    textNode = document.createTextNode(coordToMils(coord));
+                    coordNode.appendChild(textNode);
+                }
+            }
+        }
+    
+        function convertUnits(unitNode, units) {
+            for (var i = 0; i < unitNode.childNodes.length; i++) {
+                unitNode.removeChild(unitNode.childNodes[i]);
+            }
+        
+            textNode = document.createTextNode(units); 
+            unitNode.appendChild(textNode);
+        }
+    
+        function changeUnits(radio_input, units) {
+            if (radio_input.checked) {
+            
+                var elements = document.getElementsByName('coordinate');
+                if (elements) {
+                    for (var i = 0; i < elements.length; i++) {
+                        convertCoord(elements[i], units);
+                    }
+                }
+    
+                var elements = document.getElementsByName('units');
+                if (elements) {
+                    for (var i = 0; i < elements.length; i++) {
+                        convertUnits(elements[i], units);
+                    }
+                }
+            }
+        }
+    </script></head>
+<body onload=""><img ALT="Altium" src="
+            file://C:\Users\Public\Documents\Altium\CS\Templates\CircuitStudio_logo.png
+        "><h1>Electrical Rule Check Report</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">5/27/2020</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">2:47:04 PM</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\ERC\IoT_Project_V2.1.html" class="file"><acronym title="C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\ERC\IoT_Project_V2.1.html">C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\Default Configuration\Outputs\ERC\IoT_Project_V2.1.html</acronym></a></td>
+</tr>
+</table><a name="IDAWNZ4IHRBU2PME4M4EVG4KGAJLDROYQVPJEM5NM5LX1XNXR2CUOL"><table>
+<tr>
+<th class="column1">Class</th>
+<th class="column2">Document</th>
+<th class="column3">Message</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (110,845) To (110,855)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (110,845) To (140,845)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (190,800) To (190,820)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (240,845) To (265,845)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (245,385) To (245,420)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (265,845) To (265,855)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (290,385) To (290,420)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (315,845) To (315,855)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (315,845) To (345,845)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (335,385) To (335,420)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (395,800) To (395,820)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (445,845) To (470,845)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (470,845) To (470,855)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,320) To (665,320)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,330) To (925,330)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,340) To (925,340)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,350) To (925,350)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,360) To (925,360)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,370) To (925,370)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,380) To (925,380)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,390) To (925,390)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,400) To (925,400)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,410) To (665,410)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,490) To (665,490)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,500) To (925,500)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,510) To (925,510)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,520) To (925,520)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,530) To (925,530)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,540) To (925,540)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,550) To (925,550)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,560) To (925,560)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,570) To (925,570)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,580) To (665,580)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,660) To (665,660)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,670) To (925,670)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,680) To (925,680)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,690) To (925,690)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,700) To (925,700)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,710) To (925,710)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,720) To (925,720)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,730) To (925,730)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,740) To (925,740)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,750) To (925,750)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,760) To (925,760)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,770) To (665,770)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,855) To (925,855)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,865) To (925,865)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (635,875) To (665,875)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,315) To (665,320)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,410) To (665,415)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,485) To (665,490)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,580) To (665,585)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,655) To (665,660)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,770) To (665,775)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (665,875) To (665,880)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (915,935) To (915,945)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (915,945) To (940,945)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (940,950) To (950,950)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (950,945) To (980,945)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (980,900) To (980,945)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1015,925) To (1015,940)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1015,925) To (1025,925)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1015,940) To (1020,940)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1025,900) To (1025,925)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1035,900) To (1035,925)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1035,925) To (1045,925)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1040,940) To (1045,940)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1045,925) To (1045,940)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,295) To (1380,295)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,370) To (1380,370)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,445) To (1380,445)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,455) To (1380,455)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,465) To (1380,465)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,475) To (1380,475)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,485) To (1380,485)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,495) To (1380,495)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,570) To (1380,570)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,580) To (1380,580)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,590) To (1380,590)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,600) To (1380,600)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,670) To (1380,670)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,680) To (1380,680)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,755) To (1380,755)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,765) To (1380,765)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,845) To (1380,845)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,855) To (1380,855)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1090,865) To (1380,865)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,280) To (1350,285)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,285) To (1380,285)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,305) To (1350,310)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,305) To (1380,305)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,355) To (1350,360)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,360) To (1380,360)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,380) To (1350,385)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,380) To (1380,380)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,430) To (1350,435)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,435) To (1380,435)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,505) To (1350,510)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,505) To (1380,505)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,555) To (1350,560)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,560) To (1380,560)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,610) To (1350,615)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,610) To (1380,610)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,655) To (1350,660)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,660) To (1380,660)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,690) To (1350,695)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,690) To (1380,690)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,740) To (1350,745)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,745) To (1380,745)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,775) To (1350,780)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,775) To (1380,775)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,830) To (1350,835)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,835) To (1380,835)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,875) To (1350,880)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1">Warning</td>
+<td class="column2">[02] - BLOCK DIAGRAM.SchDoc</td>
+<td class="column3">Unconnected line (1350,875) To (1380,875)</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

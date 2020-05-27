@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: IoT_Project_V2.1.CSPcbDoc   5/27/2020  3:08:50 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IoT_Project_V2.1-RoundHoles.TXT
+ASCII SlotHoles File : IoT_Project_V2.1-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          112              39.43 Inch (1001.48 mm)
+T2        15.75mil (0.40005mm)     Round          3                0.81 Inch (20.60 mm)
+T3        43.31mil (1.10007mm)     Round          99               22.91 Inch (581.92 mm)
+T4        47.24mil (1.1999mm)      Slot           3                285.68 Inch (7256.28 mm)
+T5        118.11mil (2.99999mm)    Round          6                19.62 Inch (498.44 mm)
+---------------------------------------------------------------------------
+Totals                                            223              368.45 Inch (9358.71 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,3 @@
+Added Component: Designator=TP5(1.2x2.5 Pad)
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Member To Class: ClassName=[08] - OUTPUT Member=Component TP5 PC TEST POINT, BLACK, SMT
