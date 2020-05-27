@@ -277,6 +277,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFBYVCOS
 
+[GeneratedDocument1]
+DocumentPath=Outputs\Design Rule Check - IoT_Project_V2.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Company
 Value=Rollmech Automotive

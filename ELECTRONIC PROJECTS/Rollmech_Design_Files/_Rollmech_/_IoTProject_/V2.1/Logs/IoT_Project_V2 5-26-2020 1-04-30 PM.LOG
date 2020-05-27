@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5V Pin=Q10-3
+Added Component: Designator=C7(CAP_CER_0805)
+Added Component: Designator=C26(CAP_CER_0805)
+Added Component: Designator=C27(CAP_CER_0805)
+Added Component: Designator=C28(CAP_CER_0805)
+Added Component: Designator=VR3(3-SIP)
+Added Component: Designator=VR4(3-SIP)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VIN Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+3.3V Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=+5V Pin=C28-2
+Added Pin To Net: NetName=GND Pin=Q10-3
+Added Pin To Net: NetName=VIN Pin=VR3-1
+Added Pin To Net: NetName=GND Pin=VR3-2
+Added Pin To Net: NetName=+3.3V Pin=VR3-3
+Added Pin To Net: NetName=VIN Pin=VR4-1
+Added Pin To Net: NetName=GND Pin=VR4-2
+Added Pin To Net: NetName=+5V Pin=VR4-3
+Added Member To Class: ClassName=[03] - POWER Member=Component C7 10uf 50V
+Added Member To Class: ClassName=[03] - POWER Member=Component C26 10uf 50V
+Added Member To Class: ClassName=[03] - POWER Member=Component C27 10uF 16V
+Added Member To Class: ClassName=[03] - POWER Member=Component C28 10uF 16V
+Added Member To Class: ClassName=[03] - POWER Member=Component VR3 173010378
+Added Member To Class: ClassName=[03] - POWER Member=Component VR4 173010578

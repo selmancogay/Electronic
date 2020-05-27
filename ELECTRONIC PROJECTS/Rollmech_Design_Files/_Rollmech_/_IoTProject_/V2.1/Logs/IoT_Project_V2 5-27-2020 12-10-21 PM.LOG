@@ -1,0 +1,5 @@
+Added Component: Designator=C1(CAP_CER_0603)
+Added Pin To Net: NetName=NetC6_2 Pin=C1-1
+Added Pin To Net: NetName=+3.3V Pin=C1-2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC1_1
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component C1 100nF
