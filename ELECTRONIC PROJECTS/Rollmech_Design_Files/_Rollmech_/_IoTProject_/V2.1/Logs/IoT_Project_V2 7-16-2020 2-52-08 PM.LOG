@@ -1,0 +1,5 @@
+Added Component: Designator=Q10(SOT-23 (TO-236))
+Added Pin To Net: NetName=GND Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-3
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component Q10 NPN 0.6A

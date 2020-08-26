@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: IoT_Project_V2.1.GBR   7/16/2020  4:16:52 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 GND                                     
+.G2                 POWER                                   
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.Outline            Outline                                 
+.Assembly Text Top  Assembly Text Top                       
+.Assembly Text BottomAssembly Text Bottom                    
+.Assembly Top       Assembly Top                            
+.Assembly Bottom    Assembly Bottom                         
+.3D Top             3D Top                                  
+.3D Bottom          3D Bottom                               
+------------------------------------------------------------------------------------------

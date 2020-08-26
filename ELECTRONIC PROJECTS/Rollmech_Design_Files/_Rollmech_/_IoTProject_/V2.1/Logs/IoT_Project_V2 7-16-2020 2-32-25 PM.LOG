@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+3.3V Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=Q10-3
+Removed Pin From Net: NetName=GND Pin=R73-1
+Removed Pin From Net: NetName=NetQ10_2 Pin=U4-11
+Change Component DesignItemId : Designator=R73 Old DesignItemId=CRCW08050000Z0EA" New DesignItemId=ERJ-6ENF1000V
+Change Component DesignItemId : Designator=R4 Old DesignItemId=ERJ-6ENF1002V New DesignItemId=ERJ-6ENF1001V
+Change Component DesignItemId : Designator=Q10 Old DesignItemId=MMBT2907A-7-F New DesignItemId=MMBT2222A-7-F
+Change Component Comment : Designator=R73 Old Comment=0 New Comment=100 ohm
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=1K 1/8W
+Change Component Comment : Designator=Q10 Old Comment=PNP New Comment=NPN 0.6A
+Change Component Description : Designator=R73 Old Description=RES SMD 0 OHM JUMPER 1/8W 0805 New Description=RES SMD 100 OHM
+Change Component Description : Designator=R4 Old Description=RES SMD 10K OHM 1% 1/8W 0805 New Description=RES SMD 1K OHM
+Change Component Description : Designator=Q10 Old Description=TRANS PNP 60V 0.6A SOT23-3 New Description=TRANS NPN 40V 0.6A SMD SOT23-3
+Added Component: Designator=JP12(HDR_FEMALE_1X4_2.54MM)
+Added Component: Designator=JP13(HDR_FEMALE_1X4_2.54MM)
+Added Component: Designator=JP14(HDR_FEMALE_1X2_2.54MM)
+Added Pin To Net: NetName=GND Pin=JP14-2
+Added Pin To Net: NetName=GND Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_2 Pin=R73-2
+Added Pin To Net: NetName=NetJP12_1 Pin=JP12-1
+Added Pin To Net: NetName=NetJP12_1 Pin=JP13-4
+Added Pin To Net: NetName=NetJP12_1 Pin=U2-36
+Added Pin To Net: NetName=NetJP12_1 Pin=U4-15
+Added Net: Name=NetJP12_1
+Added Pin To Net: NetName=NetJP12_2 Pin=JP12-2
+Added Pin To Net: NetName=NetJP12_2 Pin=JP13-3
+Added Pin To Net: NetName=NetJP12_2 Pin=U2-35
+Added Pin To Net: NetName=NetJP12_2 Pin=U4-17
+Added Net: Name=NetJP12_2
+Added Pin To Net: NetName=NetJP12_3 Pin=JP12-3
+Added Pin To Net: NetName=NetJP12_3 Pin=JP13-2
+Added Pin To Net: NetName=NetJP12_3 Pin=U2-34
+Added Pin To Net: NetName=NetJP12_3 Pin=U4-16
+Added Net: Name=NetJP12_3
+Added Pin To Net: NetName=NetJP12_4 Pin=JP12-4
+Added Pin To Net: NetName=NetJP12_4 Pin=JP13-1
+Added Pin To Net: NetName=NetJP12_4 Pin=U2-33
+Added Pin To Net: NetName=NetJP12_4 Pin=U4-14
+Added Net: Name=NetJP12_4
+Added Pin To Net: NetName=NetJP14_1 Pin=JP14-1
+Added Pin To Net: NetName=NetJP14_1 Pin=U2-24
+Added Net: Name=NetJP14_1
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-3
+Added Pin To Net: NetName=NetQ10_3 Pin=R5-2
+Added Net: Name=NetQ10_3
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR73_1 Pin=R73-1
+Added Pin To Net: NetName=NetR73_1 Pin=U4-11
+Added Net: Name=NetR73_1
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component JP12 HDR FEMALE 1X4 2.54MM
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component JP13 HDR FEMALE 1X4 2.54MM
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component JP14 HDR 1X2 2.54MM

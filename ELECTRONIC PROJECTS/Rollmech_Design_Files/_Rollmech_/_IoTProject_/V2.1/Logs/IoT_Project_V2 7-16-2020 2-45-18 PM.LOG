@@ -1,0 +1,4 @@
+Added Component: Designator=SW1(4.5x4.5 Tactile switch)
+Added Pin To Net: NetName=NetR4_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Member To Class: ClassName=[04] - COMMUNICATION Member=Component SW1 PTS 647 SK38 SMTR2 LFS

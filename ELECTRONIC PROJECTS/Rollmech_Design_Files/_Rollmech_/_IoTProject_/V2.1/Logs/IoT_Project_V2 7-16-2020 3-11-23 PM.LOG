@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=NetR12_1 Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Member From Class: ClassName=[06] - MCU Member=S2
+Added Component: Designator=SW2(4.5x4.5 Tactile switch)
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetR12_1 Pin=SW2-3
+Added Member To Class: ClassName=[06] - MCU Member=Component SW2 PTS 647 SK38 SMTR2 LFS
