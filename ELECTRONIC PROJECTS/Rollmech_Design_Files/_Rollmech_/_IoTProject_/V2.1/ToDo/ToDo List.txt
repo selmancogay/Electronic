@@ -1,0 +1,20 @@
+Input devrelerine output yazılmış. Düzeltilecek.
+8Mhz kristal footprint hatalı
+Output led devreleri hatalı.
+Q10 yazısı büyük kalmış.Düzeltilecek.
+Çıkış portları (program sht dht vb) hepsinin pinleri yazıldığı gibi portun adıda yazılacak.
+Yazılım atmak için tasarlanan porta led konacak datanın gelip gittiği takip edilecek.
+Sistemin çalıştığını görmek için gerekli düzenlemeler yapılacak.
+BOOT pini hatalı High bağlanmış Low olmalı
+Warning ledlerinin transistör devresi hatalı.
+ESP32 firmware update pinlerinin yazısı yok.
+ESP32 firmware update pinleri hatalı.Komple birbirine bağlanmamalı.(jp3-2)
+Komponent footprintleri düzenlenecek. özellikle silkscreen kısmı değişmeli prototip lehim için özellikle direnç ve condansatörlerde parça oluşturulmalı
+Test point nedir araştırılacak ve bir sonraki kartta ona göre düzenleme yapılacak.
+Sistemin çalışıp çalışmadığını anlamak için led konacak blink atılabilecek.
+Power katı LDO SMPS araştırılacak tekrar devresi kurulacak.
+Protection kısmına tekrar bakılacak dökümante edilecek.
+RF modülün önündeki boşluk hatalı 1. pinden itibaren yapılmalı ve daha geniş olmalı
+Wifi modülü ile ilgili dökümantasyon yapılmalı.
+Opto coupler komponentler için çalışma şeması çıkarılacak. Opto couplere elternatif aranacak.
+Silkscreen katı he rparça için ayrı ayrı düzenli olmalı tüm yazılar vs her komponente ayrı ayrı olmalı

@@ -1,50 +1,50 @@
-Field=Case/Package~String~Case/Package~100|Field=Manufacturer 1~String~Manufacturer 1~100|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~100|Field=Quantity~Integer~Quantity~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier Currency 1~String~Supplier Currency 1~100|Field=Supplier Order Qty 1~String~Supplier Order Qty 1~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|Field=Supplier Stock 1~String~Supplier Stock 1~100|Field=Supplier Unit Price 1~String~Supplier Unit Price 1~100|Field=Category~String~Category~100|Field=Description~String~Description~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~IoT_Project_V2.1.PrjPcb|ReportField=ProjectFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.PrjPcb|ReportField=Title~BOM_PartType For Project [IoT_Project_V2.1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~176|ReportField=ReportTime~4:13:25 PM|ReportField=ReportDate~7/22/2020|ReportField=ReportDateTime~7/22/2020 4:13:25 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Company~Rollmech Automotive|ReportField=Designer~Selman Cogay|ReportField=Project~IoT_Project_V2.1|ReportField=VersionRevision~V2.1|ReportField=WebSite~http://www.rollmech.com|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~10|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.52|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=4|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9|ReportField=DataSourceFileName~IoT_Project_V2.1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.PrjPcb|ReportField=PCBDataSourceFileName~IoT_Project_V2.1.CSPcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.CSPcbDoc
-0603 (1608 Metric)|TDK Corporation|Loading...|2|Digikey|$|1|445-12484-1-ND|11910|0,25|Ceramic Capacitors|CAP CER 1UF 35V
-0805 (2012 Metric)|Murata Electronics|GRM21BR61H106KE43L|2|Digikey|$|Loading...|490-18663-1-ND|3697|0.49|Ceramic Capacitors|CAP CER 10uF 50VDC
-0603 (1608 Metric)|TDK Corporation|CGA3E2C0G1H4R7C080AA|6|Digikey|$|Loading...|445-5621-1-ND|68332|0.19|Ceramic Capacitors|CAP CER 4.7PF 50V C0G 0603
-0603 (1608 Metric)|Taiyo Yuden|GMK107BJ104KAHT|7|Digikey|$|1|587-3357-1-ND|97932|0,14|Ceramic Capacitors|CAP CER 100nf 35V X5R 0603
-0805 (2012 Metric)|TDK Corporation|CGA4J1X5R1C106M125AC|1|Digikey|$|1|445-12654-1-ND|39905|0,5|Ceramic Capacitors|CAP CER 10UF 16V
-0603 (1608 Metric)|Murata Electronics North America|GCM1885C2A220FA16D|2|Digikey|$|1|490-16413-1-ND|22604|0,22|Ceramic Capacitors|CAP CER 22PF 100V C0G/NP0 0603
-0805 (2012 Metric)|Samsung Electro-Mechanics|CL21B103KC6WPNC|1|Digikey|$|1|1276-6845-1-ND|38701|0,1|Ceramic Capacitors|CAP CER 10nF 100V
-0805 (2012 Metric)|TDK Corporation|CGA4J1X5R1C106M125AC|2|Digikey|$|1|445-12654-1-ND|39905|0,5|Ceramic Capacitors|CAP CER 10UF 16V
-DO-214AA, SMB|Littelfuse Inc.|SZP6SMB36CAT3G|1|Digikey|$|1|SZP6SMB36CAT3GOSCT-ND|24611|0,93|TVS - Diodes|TVS DIODE 30.8V 49.9V SMB
-TO-236-3, SC-59, SOT-23-3|ON Semiconductor|SZBZX84C12LT1G|1|Digikey|$|1|SZBZX84C12LT1GOSCT-ND|80986|0,15|Diodes - Zener - Single|DIODE ZENER 12V 250MW
-0603 (1608 Metric)|Everlight Electronics Co Ltd|EAST16084BA8|2|Digikey|$|Loading...|1080-1562-1-ND|11914|0.30|LED Indication - Discrete|LED BLUE CLEAR 2SMD
-0603 (1608 Metric)|Everlight Electronics Co Ltd|19-217/R6C-AL1M2VY/3T|9|Digikey|$|Loading...|1080-1585-1-ND|8508|0.3|LED Indication - Discrete|LED RED CLEAR 2SMD
-0603 (1608 Metric)|Vishay Beyschlag|MFU0603FF01250P100|1|Digikey|$|1|MFU06031.25CT-ND|24954|0,31|Fuses|FUSE 1.25A 32VDC 0603
-Jack|CUI Inc.|PJ-002A|1|Digikey|$|1|CP-002A-ND|115179|0,6|Barrel - Power Connectors|CONN PWR JACK 2X5.5MM SOLDER
-3POS_3mmPitch|Wurth Electronics Inc.|66200311122|8|Digikey|$|1|732-4709-5-ND|56|0,34|Rectangular Connectors - Headers, Male Pins|CONN MALE 1X3 3MM
-2POS_2.54mmPitch|Sullins Connector Solutions|PPTC021LFBN-RC|4|Digikey|$|1|S7000-ND|46723|0,32|Rectangular Connectors - Headers, Receptacles, Female Sockets|HDR FEMALE 1X2 2.54MM
-5Pos_2.5mm_Pitch|Sullins Connector Solutions|PPTC051LFBN-RC|1|Digikey|$|1|S6103-ND|28189|Loading...|Rectangular Connectors - Headers, Receptacles, Female Sockets|HDR FEMALE 1X5 2.54MM
-16Pos_2.5mm_Pitch|Sullins Connector Solutions|PPTC161LFBN-RC|1|Digikey|$|1|S7014-ND|9562|Loading...|Rectangular Connectors - Headers, Receptacles, Female Sockets|HDR FEMALE 1x16 2.54MM
-3POS pitch 2.54mm|Wurth Electronics Inc.|61300311121|2|Digikey|$|1|732-5316-ND|109116|0,13|Rectangular Connectors - Headers, Male Pins|HDR MALE 1X3 2.54MM
-4POS_2.54mmPitch|Sullins Connector Solutions|PPTC041LFBN-RC|6|Digikey|$|1|S7002-ND|30769|0,45|Rectangular Connectors - Headers, Receptacles, Female Sockets|HDR FEMALE 1X4 2.54MM
-PowerPAK® SO-8|Vishay Siliconix|SQJ457EP-T1_GE3|1|Digikey|$|Loading...|SQJ457EP-T1_GE3CT-ND|24220|0,92|Transistors - FETs, MOSFETs - Single|MOSFET P-CH 60V 36A
-SOT-23-3|Diodes Incorporated|MMBT2907A-7-F|8|Digikey|$|Loading...|MMBT2907A-FDICT-ND|376417|0.14|Transistors - Bipolar (BJT) - Single|TRANS PNP 60V 0.6A SOT23-3
-SOT-23-3|Diodes Incorporated|MMBT2222A-7-F|1|Digikey|$|1|MMBT2222A-FDICT-ND|1957039|0,14|Transistors - Bipolar (BJT) - Single|TRANS NPN 40V 0.6A SMD SOT23-3
-SOT-23-3|Diodes Incorporated|MMBT2222A-7-F|2|Digikey|$|1|MMBT2222A-FDICT-ND|1957039|0,14|Transistors - Bipolar (BJT) - Single|TRANS NPN 40V 0.6A SMD SOT23-3
-0603 (1608 Metric)|Panasonic Electronic Components|ERJ-PA3J104V|9|Digikey|$|1|P100KBZCT-ND|11465|0,11|Chip Resistor - Surface Mount|RES SMD 100K 5% 1/4W 0603
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF2200V|1|Digikey|$|Loading...|P220CCT-ND|90481|0,1|Chip Resistor - Surface Mount|RES SMD 220 OHM 1% 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1400V|10|Digikey|$|1|P140CCT-ND|76818|0,1|Chip Resistor - Surface Mount|RES SMD 140 OHM 1% 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1001V|1|Digikey|$|1|P1.00KCCT-ND|1361018|0,1|Chip Resistor - Surface Mount|RES SMD 1K OHM
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF5601V|13|Digikey|$|1|P5.60KCCT-ND|71341|0,1|Chip Resistor - Surface Mount|RES SMD 5.6K OHM 1% 1/8W 0805
-0805 (2012 Metric)|Vishay Dale|CRCW08050000Z0EA|9|Digikey|$|Loading...|541-0.0ACT-ND|746599|0.1|Chip Resistor - Surface Mount|RES SMD 0 OHM JUMPER 1/8W 0805
-0805|Panasonic Electronic Components|ERJ-6GEYJ220V|3|Digikey|$|Loading...|P22ACT-ND|247578|0.1|Chip Resistor - Surface Mount|RES SMD 22 OHM 5% 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1001V|11|Digikey|$|1|P1.00KCCT-ND|1361018|0,1|Chip Resistor - Surface Mount|RES SMD 1K OHM
-0805 (2012 Metric)|Vishay Dale|CRCW08050000Z0EA|2|Digikey|$|Loading...|541-0.0ACT-ND|746599|0.1|Chip Resistor - Surface Mount|RES SMD 0 OHM JUMPER 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF3740V|8|Digikey|$|1|P374CCT-ND|100272|0,1|Chip Resistor - Surface Mount|RES SMD 374 OHM 1% 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1002V|10|Digikey|$|1|P10.0KCCT-ND|2515107|0,1|Chip Resistor - Surface Mount|RES SMD 10K OHM 1% 1/8W 0805
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1000V|1|Digikey|$|1|P100CCT-ND|728141|0,1|Chip Resistor - Surface Mount|RES SMD 100 OHM
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF54R9V|2|Digikey|$|1|P54.9CCT-ND|43715|0,1|Chip Resistor - Surface Mount|RES SMD 54.9 OHM
-0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1000V|1|Digikey|$|1|P100CCT-ND|728141|0,1|Chip Resistor - Surface Mount|RES SMD 100 OHM
-4.50mm x 4.50mm|C&K|PTS 647 SK38 SMTR2 LFS|2|Digikey|$|Loading...|PTS647SK38SMTR2LFSCT-ND|73195|0.14|Tactile Switches|SWITCH TACTILE 4.5 X 4.5
-3x2.5 pad|Keystone Electronics|5191TR|5|Digikey|$|Loading...|36-5191CT-ND|7816|Loading...|Test Points|TEST POINT SMT
-THT|Digi International|XBP24-DKSJ|1|Digikey|$|Loading...|602-1590-ND|0|-|RF Evaluation and Development Kits, Boards|XBEE PRO SERIES1
-SMD|Espressif Systems|ESP32-WROOM-32D (8MB)|1|Digikey|$|Loading...|1904-1024-1-ND|1298|4.2|RF Transceiver Modules|ESP32 WIFI MODULE 64MBITS SPI FLASH
-8-SOIC (0.154", 3.90mm Width)|STMicroelectronics|M24M02-DWMN3TP/K|1|Digikey|$|1|497-16238-1-ND|6027|3,28|Memory|IC EEPROM 2M I2C 1MHZ 8SO
-64-LQFP|STMicroelectronics|Loading...|1|Digikey|$|1|497-17362-1-ND|441|3,84|Embedded - Microcontrollers|IC MCU 32BIT 64KB FLASH 64LQFP
-6-SOIC (0.179", 4.55mm Width), 4 Leads|Toshiba Semiconductor and Storage|TLP2301(TPL,E|8|Digikey|$|1|TLP2301(TPLECT-ND|19225|0,73|Optoisolators - Transistor, Photovoltaic Output|OPTOISO 3.75KV TRANS
-3-SIP Module|Würth Elektronik|173010378|1|Digikey|$|Loading...|732-9638-5-ND|60|6.84|DC DC Converters|DC DC CONVERTER 3.3V 3W
-3-SIP Module|Würth Elektronik|173010578|1|Digikey|$|Loading...|732-9639-5-ND|81|6.84|DC DC Converters|DC DC CONVERTER 5V 5W
-2-SMD, No Lead|ECS Inc.|ECS-.327-6-34QCS-TR|1|Digikey|$|1|XC2162CT-ND|1833|0,83|Crystals|CRYSTAL 32.768KHZ
-HC-49/US|ECS Inc.|ECS-80-18-5PLX-AGN-TR|1|Digikey|$|Loading...|XC2782CT-ND|1600|0.37|Crystals|CRYSTAL 8.000MHZ 18PF SMT
+Field=Case/Package~String~Case/Package~100|Field=Manufacturer 1~String~Manufacturer 1~100|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|Field=Description~String~Description~100|Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~IoT_Project_V2.1.PrjPcb|ReportField=ProjectFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.PrjPcb|ReportField=Title~BOM_PartType For Project [IoT_Project_V2.1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~176|ReportField=ReportTime~1:50:48 PM|ReportField=ReportDate~9/9/2020|ReportField=ReportDateTime~9/9/2020 1:50:48 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Company~Rollmech Automotive|ReportField=Designer~Selman Cogay|ReportField=Project~IoT_Project_V2.1|ReportField=VersionRevision~V2.1|ReportField=WebSite~http://www.rollmech.com|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~10|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.52|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=4|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9|ReportField=DataSourceFileName~IoT_Project_V2.1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.PrjPcb|ReportField=PCBDataSourceFileName~IoT_Project_V2.1.CSPcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.CSPcbDoc
+0603 (1608 Metric)|TDK Corporation|Loading...|Digikey|445-12484-1-ND|CAP CER 1UF 35V|1uF|C5, C22
+0805 (2012 Metric)|Murata Electronics|GRM21BR61H106KE43L|Digikey|490-18663-1-ND|CAP CER 10uF 50VDC|10uf 50V|C7, C26
+0603 (1608 Metric)|TDK Corporation|CGA3E2C0G1H4R7C080AA|Digikey|445-5621-1-ND|CAP CER 4.7PF 50V C0G 0603|4.7uf|C8, C9, C13, C14, C24, C25
+0603 (1608 Metric)|Taiyo Yuden|GMK107BJ104KAHT|Digikey|587-3357-1-ND|CAP CER 100nf 35V X5R 0603|100nF|C10, C11, C17, C18, C19, C20, C21
+0805 (2012 Metric)|TDK Corporation|CGA4J1X5R1C106M125AC|Digikey|445-12654-1-ND|CAP CER 10UF 16V|10uF|C12
+0603 (1608 Metric)|Murata Electronics North America|GCM1885C2A220FA16D|Digikey|490-16413-1-ND|CAP CER 22PF 100V C0G/NP0 0603|22pF|C15, C16
+0805 (2012 Metric)|Samsung Electro-Mechanics|CL21B103KC6WPNC|Digikey|1276-6845-1-ND|CAP CER 10nF 100V|10nF|C23
+0805 (2012 Metric)|TDK Corporation|CGA4J1X5R1C106M125AC|Digikey|445-12654-1-ND|CAP CER 10UF 16V|10uF 16V|C27, C28
+DO-214AA, SMB|Littelfuse Inc.|SZP6SMB36CAT3G|Digikey|SZP6SMB36CAT3GOSCT-ND|TVS DIODE 30.8V 49.9V SMB|33V3|D1
+TO-236-3, SC-59, SOT-23-3|ON Semiconductor|SZBZX84C12LT1G|Digikey|SZBZX84C12LT1GOSCT-ND|DIODE ZENER 12V 250MW|12V 250mW|D2
+0603 (1608 Metric)|Everlight Electronics Co Ltd|EAST16084BA8|Digikey|1080-1562-1-ND|LED BLUE CLEAR 2SMD|Blue Led|D3, D13
+0603 (1608 Metric)|Everlight Electronics Co Ltd|19-217/R6C-AL1M2VY/3T|Digikey|1080-1585-1-ND|LED RED CLEAR 2SMD|LED RED|D4, D5, D6, D7, D8, D9, D10, D11, D12
+0603 (1608 Metric)|Vishay Beyschlag|MFU0603FF01250P100|Digikey|MFU06031.25CT-ND|FUSE 1.25A 32VDC 0603|1.25A 32VDC|F1
+Jack|CUI Inc.|PJ-002A|Digikey|CP-002A-ND|CONN PWR JACK 2X5.5MM SOLDER|CONN 2x5.5 Jack|J1
+3POS_3mmPitch|Wurth Electronics Inc.|66200311122|Digikey|732-4709-5-ND|CONN MALE 1X3 3MM|CONN 1X3 3MM|J2, J3, J4, J5, J6, J7, J8, J9
+2POS_2.54mmPitch|Sullins Connector Solutions|PPTC021LFBN-RC|Digikey|S7000-ND|HDR FEMALE 1X2 2.54MM|HDR 1X2 2.54MM|JP1, JP2, JP11, JP14
+5Pos_2.5mm_Pitch|Sullins Connector Solutions|PPTC051LFBN-RC|Digikey|S6103-ND|HDR FEMALE 1X5 2.54MM|HDR FEMALE 1X5 2.54MM|JP3
+16Pos_2.5mm_Pitch|Sullins Connector Solutions|PPTC161LFBN-RC|Digikey|S7014-ND|HDR FEMALE 1x16 2.54MM|HDR FEMALE 1x16 2.54MM|JP4
+3POS pitch 2.54mm|Wurth Electronics Inc.|61300311121|Digikey|732-5316-ND|HDR MALE 1X3 2.54MM|HDR_1X3_2.54|JP5, JP8
+4POS_2.54mmPitch|Sullins Connector Solutions|PPTC041LFBN-RC|Digikey|S7002-ND|HDR FEMALE 1X4 2.54MM|HDR FEMALE 1X4 2.54MM|JP6, JP7, JP9, JP10, JP12, JP13
+PowerPAK® SO-8|Vishay Siliconix|SQJ457EP-T1_GE3|Digikey|SQJ457EP-T1_GE3CT-ND|MOSFET P-CH 60V 36A|PNP 60V 36A|Q1
+SOT-23-3|Diodes Incorporated|MMBT2907A-7-F|Digikey|MMBT2907A-FDICT-ND|TRANS PNP 60V 0.6A SOT23-3|PNP|Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9
+SOT-23-3|Diodes Incorporated|MMBT2222A-7-F|Digikey|MMBT2222A-FDICT-ND|TRANS NPN 40V 0.6A SMD SOT23-3|NPN 0.6A|Q10
+SOT-23-3|Diodes Incorporated|MMBT2222A-7-F|Digikey|MMBT2222A-FDICT-ND|TRANS NPN 40V 0.6A SMD SOT23-3|NPN|Q11, Q12
+0603 (1608 Metric)|Panasonic Electronic Components|ERJ-PA3J104V|Digikey|P100KBZCT-ND|RES SMD 100K 5% 1/4W 0603|100K|R1, R30, R31, R42, R43, R54, R55, R66, R67
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF2200V|Digikey|P220CCT-ND|RES SMD 220 OHM 1% 1/8W 0805|220|R2
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1400V|Digikey|P140CCT-ND|RES SMD 140 OHM 1% 1/8W 0805|140|R3, R22, R23, R34, R35, R46, R47, R58, R59, R71
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1001V|Digikey|P1.00KCCT-ND|RES SMD 1K OHM|1K 1/8W|R4
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF5601V|Digikey|P5.60KCCT-ND|RES SMD 5.6K OHM 1% 1/8W 0805|5.6k|R5, R13, R14, R18, R19, R20, R21, R32, R33, R44, R45, R56, R57
+0805 (2012 Metric)|Vishay Dale|CRCW08050000Z0EA|Digikey|541-0.0ACT-ND|RES SMD 0 OHM JUMPER 1/8W 0805|0 1/8W|R6, R7, R8, R9, R75, R77, R78, R79, R80
+0805|Panasonic Electronic Components|ERJ-6GEYJ220V|Digikey|P22ACT-ND|RES SMD 22 OHM 5% 1/8W 0805|22|R10, R11, R12
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1001V|Digikey|P1.00KCCT-ND|RES SMD 1K OHM|1K|R15, R28, R29, R40, R41, R52, R53, R64, R65, R68, R69
+0805 (2012 Metric)|Vishay Dale|CRCW08050000Z0EA|Digikey|541-0.0ACT-ND|RES SMD 0 OHM JUMPER 1/8W 0805|0|R16, R17
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF3740V|Digikey|P374CCT-ND|RES SMD 374 OHM 1% 1/8W 0805|374|R24, R25, R36, R37, R48, R49, R60, R61
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1002V|Digikey|P10.0KCCT-ND|RES SMD 10K OHM 1% 1/8W 0805|10K|R26, R27, R38, R39, R50, R51, R62, R63, R70, R72
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1000V|Digikey|P100CCT-ND|RES SMD 100 OHM|100 ohm|R73
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF54R9V|Digikey|P54.9CCT-ND|RES SMD 54.9 OHM|54.9|R74, R76
+0805 (2012 Metric)|Panasonic Electronic Components|ERJ-6ENF1000V|Digikey|P100CCT-ND|RES SMD 100 OHM|100|R81
+4.50mm x 4.50mm|C&K|PTS 647 SK38 SMTR2 LFS|Digikey|PTS647SK38SMTR2LFSCT-ND|SWITCH TACTILE 4.5 X 4.5|PTS 647 SK38 SMTR2 LFS|SW1, SW2
+3x2.5 pad|Keystone Electronics|5191TR|Digikey|36-5191CT-ND|TEST POINT SMT|PC TEST POINT, BLACK, SMT|TP1, TP2, TP3, TP4, TP5
+THT|Digi International|XBP24-DKSJ|Digikey|602-1590-ND|XBEE PRO SERIES1|XBEE PRO S1|U1
+SMD|Espressif Systems|ESP32-WROOM-32D (8MB)|Digikey|1904-1024-1-ND|ESP32 WIFI MODULE 64MBITS SPI FLASH|ESP32-WROOM-32D (8MB)|U2
+8-SOIC (0.154", 3.90mm Width)|STMicroelectronics|M24M02-DWMN3TP/K|Digikey|497-16238-1-ND|IC EEPROM 2M I2C 1MHZ 8SO|2M EEPROM|U3
+64-LQFP|STMicroelectronics|Loading...|Digikey|497-17362-1-ND|IC MCU 32BIT 64KB FLASH 64LQFP|STM32F072R8T6TR|U4
+6-SOIC (0.179", 4.55mm Width), 4 Leads|Toshiba Semiconductor and Storage|TLP2301(TPL,E|Digikey|TLP2301(TPLECT-ND|OPTOISO 3.75KV TRANS|NPN 3.75KV|U5, U6, U7, U8, U9, U10, U11, U12
+3-SIP Module|Würth Elektronik|173010378|Digikey|732-9638-5-ND|DC DC CONVERTER 3.3V 3W|173010378|VR3
+3-SIP Module|Würth Elektronik|173010578|Digikey|732-9639-5-ND|DC DC CONVERTER 5V 5W|173010578|VR4
+2-SMD, No Lead|ECS Inc.|ECS-.327-6-34QCS-TR|Digikey|XC2162CT-ND|CRYSTAL 32.768KHZ|32.768KHZ|XTAL1
+HC-49/US|ECS Inc.|ECS-80-18-5PLX-AGN-TR|Digikey|XC2782CT-ND|CRYSTAL 8.000MHZ 18PF SMT|8Mhz|XTAL2

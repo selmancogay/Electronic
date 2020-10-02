@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\a\Documents\Electronic\ELECTRONIC PROJECTS\Rollmech_Design_Files\_Rollmech_\_IoTProject_\V2.1\IoT_Project_V2.1.CSPcbDoc
+Date     : 9/11/2020
+Time     : 11:01:27 AM
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (138.99mm,61.1mm)(138.99mm,79.1mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (6mm,76.3mm)(21.6mm,76.3mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (6mm,65.2mm)(6mm,76.3mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (6mm,65.2mm)(21.6mm,65.2mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "ANTENNA" (135.75mm,72.3mm)  Top Overlay
+Rule Violations :5
+
+Processing Rule : Unpoured Polygon (Allow unpoured: False)
+Rule Violations :0
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:01
