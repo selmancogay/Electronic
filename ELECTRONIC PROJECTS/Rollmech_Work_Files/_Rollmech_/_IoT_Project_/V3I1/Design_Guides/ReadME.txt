@@ -1,0 +1,1 @@
+This folder include design guides which used component on project.

@@ -1,0 +1,1 @@
+This folder include softwares which used component on project.
